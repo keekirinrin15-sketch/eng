@@ -60,10 +60,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   setupModalEvents();
 
   try {
-    const res = await fetch('stories.json');
+    // キャッシュ回避用にタイムスタンプ付与
+    const res = await fetch('stories.json?v=' + Date.now());
     storiesData = await res.json();
     if (storiesData.length > 0) {
-      loadStory(storiesData[0]); // Load first day by default
+      // 最新のストーリー（末尾のアイテム）をデフォルトロード
+      const latestStory = storiesData[storiesData.length - 1];
+      loadStory(latestStory);
       renderArchive();
     }
   } catch (err) {
@@ -74,13 +77,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // Update Header User Stats
 function updateUserStatsUI() {
-  // Check streak
   const todayStr = new Date().toDateString();
   if (userStats.lastReadDate) {
     const lastDate = new Date(userStats.lastReadDate);
     const diffDays = Math.floor((new Date() - lastDate) / (1000 * 60 * 60 * 24));
     if (diffDays > 1) {
-      userStats.streak = 1; // Reset streak if missed a day
+      userStats.streak = 1;
     }
   }
   
@@ -108,6 +110,8 @@ function setupTabEvents() {
 
       if (e.target.dataset.tab === 'vocab') {
         renderVocabList();
+      } else if (e.target.dataset.tab === 'archive') {
+        renderArchive();
       }
     });
   });
@@ -116,7 +120,7 @@ function setupTabEvents() {
 // Load Selected Story
 function loadStory(story) {
   currentStory = story;
-  startTime = new Date(); // Start WPM timer
+  startTime = new Date();
 
   storyDayEl.textContent = `Day ${story.day}`;
   storyLevelEl.textContent = story.level;
@@ -124,25 +128,22 @@ function loadStory(story) {
   storyTitleEl.textContent = story.title;
   japaneseTextEl.textContent = story.japaneseTranslation;
 
-  // Reset WPM UI
   wpmTimerTextEl.classList.remove('hidden');
   wpmResultTextEl.classList.add('hidden');
 
   renderStoryText();
   renderQuiz();
 
-  // Reset controls
   isTranslationVisible = false;
   translationContainer.classList.add('hidden');
   toggleTranslationBtn.classList.remove('active');
 }
 
-// Render Story Text (Slash & Target Word Highlights)
+// Render Story Text
 function renderStoryText() {
   storyTextContainer.innerHTML = '';
   const textToUse = isSlashMode ? currentStory.slashedText : currentStory.originalText;
   
-  // Break into tokens / words
   const targetWordsMap = {};
   currentStory.words.forEach(w => {
     targetWordsMap[w.word.toLowerCase()] = w;
@@ -176,13 +177,12 @@ function renderStoryText() {
 
 // Setup Control Button Handlers
 function setupControlEvents() {
-  // Audio Speech (Text-to-Speech)
   toggleAudioBtn.addEventListener('click', () => {
     if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel(); // Stop current audio
+      window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(currentStory.originalText);
       utterance.lang = 'en-US';
-      utterance.rate = 0.9; // Slightly friendly pace for learners
+      utterance.rate = 0.9;
       window.speechSynthesis.speak(utterance);
 
       toggleAudioBtn.classList.add('active');
@@ -192,7 +192,6 @@ function setupControlEvents() {
     }
   });
 
-  // Slash Toggle
   toggleSlashBtn.addEventListener('click', () => {
     isSlashMode = !isSlashMode;
     toggleSlashBtn.classList.toggle('active', isSlashMode);
@@ -200,14 +199,12 @@ function setupControlEvents() {
     renderStoryText();
   });
 
-  // Translation Toggle
   toggleTranslationBtn.addEventListener('click', () => {
     isTranslationVisible = !isTranslationVisible;
     toggleTranslationBtn.classList.toggle('active', isTranslationVisible);
     translationContainer.classList.toggle('hidden', !isTranslationVisible);
   });
 
-  // WPM Finish Button
   finishReadBtn.addEventListener('click', () => {
     if (!startTime) return;
     const endTime = new Date();
@@ -219,7 +216,6 @@ function setupControlEvents() {
     wpmResultTextEl.classList.remove('hidden');
     wpmResultTextEl.textContent = `⏱️ WPM: ${wpm} (1分間あたりの読破単語数)`;
 
-    // Update stats
     userStats.totalWords += wordCount;
     const todayStr = new Date().toDateString();
     if (userStats.lastReadDate !== todayStr) {
@@ -267,7 +263,6 @@ function openWordModal(wordObj) {
   modalMeaningEl.textContent = wordObj.meaning;
   modalToeicNoteEl.textContent = wordObj.toeicNote;
 
-  // Check if saved
   const isSaved = savedVocab.some(item => item.word === wordObj.word);
   updateBookmarkBtnUI(isSaved);
 
@@ -285,7 +280,6 @@ function setupModalEvents() {
     }
   });
 
-  // Single word audio TTS
   speechWordBtn.addEventListener('click', () => {
     if (activeWordObj && 'speechSynthesis' in window) {
       const u = new SpeechSynthesisUtterance(activeWordObj.word);
@@ -294,7 +288,6 @@ function setupModalEvents() {
     }
   });
 
-  // Bookmark toggle
   bookmarkBtn.addEventListener('click', () => {
     if (!activeWordObj) return;
     const existingIndex = savedVocab.findIndex(item => item.word === activeWordObj.word);
@@ -317,10 +310,12 @@ function updateBookmarkBtnUI(isSaved) {
   bookmarkBtnText.textContent = isSaved ? 'マイ単語帳から削除' : 'マイ単語帳に保存';
 }
 
-// Render Back Number (Archive)
+// Render Back Number (Archive) - 新しい順（Dayが最新のものから）表示
 function renderArchive() {
   archiveGridEl.innerHTML = '';
-  storiesData.forEach(story => {
+  const reversedStories = [...storiesData].reverse();
+  
+  reversedStories.forEach(story => {
     const card = document.createElement('div');
     card.className = 'archive-card';
     card.innerHTML = `
@@ -332,7 +327,8 @@ function renderArchive() {
     `;
     card.addEventListener('click', () => {
       loadStory(story);
-      document.querySelector('[data-tab="today"]').click(); // Switch to today tab
+      document.querySelector('[data-tab="today"]').click();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     archiveGridEl.appendChild(card);
   });
