@@ -1,0 +1,35 @@
+name: Daily TOEIC AI Story Delivery
+
+on:
+  schedule:
+    # 毎朝 JST 7:00 (UTC 22:00) に自動実行
+    - cron: '0 22 * * *'
+  workflow_dispatch: # GitHubの管理画面から手動で即時実行ボタンを押すことも可能
+
+jobs:
+  deliver-story:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate AI Story and Send Notification
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WEB_APP_URL: ${{ secrets.WEB_APP_URL }}
+        run: node bot.js
+
+      - name: Commit updated stories.json back to repository
+        run: |
+          git config --global user.name 'TOEIC Daily AI Bot'
+          git config --global user.email 'bot@users.noreply.github.com'
+          git add stories.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update stories.json for today" && git push)
