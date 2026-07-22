@@ -197,5 +197,68 @@
     },
     "id": 4,
     "day": 4
+  },
+  {
+    "title": "☕ The Caring Coffee Machine",
+    "genre": "Office Comedy / Tech",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "To boost employee productivity, BrightTech installed a state-of-the-art AI coffee machine in the breakroom. The machine was programmed to analyze employees' facial expressions and automatically brew the ideal beverage. On its first day, Marketing Manager Sarah walked in, exhausted after a long night of preparing a presentation. The machine scanned her stressed face, evaluated her needs, and unexpectedly dispensed a large mug of plain hot water with a note: \"You need sleep, not caffeine.\" While Sarah was initially astonished by the machine's bold recommendation, the incident made everyone laugh. Now, employees deliberately make extreme faces just to see what the caring AI will serve them.",
+    "slashedText": "To boost employee productivity, / BrightTech installed / a state-of-the-art AI coffee machine / in the breakroom. / The machine was programmed / to analyze employees' facial expressions / and automatically brew / the ideal beverage. / On its first day, / Marketing Manager Sarah walked in, / exhausted / after a long night / of preparing a presentation. / The machine scanned her stressed face, / evaluated her needs, / and unexpectedly dispensed / a large mug of plain hot water / with a note: / \"You need sleep, / not caffeine.\" / While Sarah was initially astonished / by the machine's bold recommendation, / the incident made everyone laugh. / Now, / employees deliberately make extreme faces / just to see / what the caring AI will serve them.",
+    "japaneseTranslation": "従業員の生産性を向上させるため、ブライトテック社は休憩室に最新のAIコーヒーマシンを設置しました。そのマシンは従業員の表情を分析し、最適な飲み物を自動的に抽出するようにプログラムされていました。初日、マーケティングマネージャーのサラは、プレゼンの準備で徹夜をした後、疲弊して入ってきました。マシンは彼女のストレスの溜まった顔をスキャンし、彼女のニーズを評価した結果、予期せずただの白湯が入った大きなマグカップを出し、「必要なのはカフェインではなく睡眠です」というメモを添えました。サラは最初、マシンの大胆な提案に驚きましたが、この出来事はみんなを笑わせました。今では、従業員たちは思いやりのあるAIが何を出してくれるのかを見るためだけに、わざと大げさな顔をしています。",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌproʊdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ビジネス文脈で頻出。「boost productivity（生産性を向上させる）」のコロケーションでよく出題されます。"
+      },
+      {
+        "word": "analyze",
+        "phonetic": "/ˈænəlaɪz/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を分析する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "データや市場の分析（analyze data / market trends）などでPart 7の文章によく登場します。"
+      },
+      {
+        "word": "beverage",
+        "phonetic": "/ˈbevərɪdʒ/",
+        "partOfSpeech": "名詞",
+        "meaning": "（水以外の）飲み物、飲料",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "drinkのフォーマル表現。Part 3/4のアナウンスやPart 7のイベント通知などで頻出。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspens/",
+        "partOfSpeech": "動詞",
+        "meaning": "（商品や飲み物などを）分配する、出す",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「dispensing machine（自動販売機）」などの表現で機器の動作説明に使われます。"
+      },
+      {
+        "word": "deliberately",
+        "phonetic": "/dɪˈlɪbərətli/",
+        "partOfSpeech": "副詞",
+        "meaning": "故意に、わざと",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「intentionally（意図的に）」の同義語として語彙問題や読解で問われます。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the AI coffee machine give Sarah hot water instead of coffee?",
+      "options": [
+        "A) Because the machine was running out of coffee beans.",
+        "B) Because it decided she needed sleep rather than caffeine.",
+        "C) Because Sarah deliberately selected the hot water option.",
+        "D) Because Sarah had already drunk too many cups of coffee."
+      ],
+      "answer": "B",
+      "explanation": "文章内に「The machine scanned her stressed face... and unexpectedly dispensed a large mug of plain hot water with a note: 'You need sleep, not caffeine.'（マシンは彼女の疲れた顔をスキャンし、カフェインではなく睡眠が必要だというメモとともに白湯を出した）」とあるため、正解は B です。"
+    },
+    "id": 5,
+    "day": 5
   }
 ]
