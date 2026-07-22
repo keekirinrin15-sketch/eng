@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily TOEIC English - 日刊ストーリー型英語学習</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-area">
+        <span class="logo-badge">TOEIC 800-900</span>
+        <h1 class="app-title">Daily Story 📖</h1>
+      </div>
+      <div class="user-stats">
+        <div class="stat-pill" title="連続学習日数">
+          <span class="stat-icon">🔥</span>
+          <span id="streakCount">1</span>日
+        </div>
+        <div class="stat-pill" title="累計読破単語数">
+          <span class="stat-icon">📚</span>
+          <span id="totalWordsRead">0</span>語
+        </div>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+      <button class="tab-btn active" data-tab="today">今日のストーリー</button>
+      <button class="tab-btn" data-tab="archive">バックナンバー</button>
+      <button class="tab-btn" data-tab="vocab">マイ単語帳 (<span id="savedVocabCount">0</span>)</button>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Today Tab Content -->
+      <section id="todaySection" class="tab-content active">
+        <div class="story-card" id="storyCard">
+          <div class="story-meta">
+            <span class="day-badge" id="storyDay">Day 1</span>
+            <span class="level-badge" id="storyLevel">Basic</span>
+            <span class="genre-badge" id="storyGenre">Trivia</span>
+          </div>
+
+          <h2 class="story-title" id="storyTitle">Loading...</h2>
+
+          <!-- Control Bar -->
+          <div class="control-bar">
+            <button class="tool-btn" id="toggleAudioBtn">
+              <span class="btn-icon">🔊</span>
+              <span class="btn-text">音声を聞く</span>
+            </button>
+            <button class="tool-btn" id="toggleSlashBtn">
+              <span class="btn-icon">✂️</span>
+              <span class="btn-text">スラッシュ: OFF</span>
+            </button>
+            <button class="tool-btn" id="toggleTranslationBtn">
+              <span class="btn-icon">🇯🇵</span>
+              <span class="btn-text">和訳を表示</span>
+            </button>
+          </div>
+
+          <!-- Reading Speed (WPM) Meter -->
+          <div class="wpm-box">
+            <div class="wpm-status">
+              <span id="wpmTimerText">⏱️ 読書スピード計測中...</span>
+              <span id="wpmResultText" class="wpm-result hidden">WPM: -- (速読力)</span>
+            </div>
+            <button class="finish-read-btn" id="finishReadBtn">読み終わった！</button>
+          </div>
+
+          <!-- Interactive Text Reader -->
+          <div class="reader-box">
+            <div class="reader-hint">💡 ハイライト単語をタップすると、その場でTOEIC解説が表示されます</div>
+            <div class="story-text" id="storyTextContainer"></div>
+          </div>
+
+          <!-- Japanese Translation Container (Collapsible) -->
+          <div class="translation-box hidden" id="translationContainer">
+            <h4>🇯🇵 日本語訳</h4>
+            <p id="japaneseText"></p>
+          </div>
+
+          <!-- Quiz Section -->
+          <div class="quiz-box" id="quizContainer">
+            <div class="quiz-header">
+              <span class="quiz-tag">TOEIC 理解度チェック</span>
+              <h3 id="quizQuestion"></h3>
+            </div>
+            <div class="quiz-options" id="quizOptions"></div>
+            <div class="quiz-feedback hidden" id="quizFeedback"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Archive Tab Content -->
+      <section id="archiveSection" class="tab-content hidden">
+        <h3 class="section-title">📅 バックナンバー一覧</h3>
+        <p class="section-desc">過去のストーリーをいつでも再読・復習できます。</p>
+        <div class="archive-grid" id="archiveGrid"></div>
+      </section>
+
+      <!-- Vocab Notebook Tab Content -->
+      <section id="vocabSection" class="tab-content hidden">
+        <div class="vocab-header">
+          <h3 class="section-title">⭐ マイ単語帳</h3>
+          <span class="vocab-count-tag" id="vocabCountBadge">0 単語</span>
+        </div>
+        <p class="section-desc">ストーリー内で気になってブックマークした重要TOEIC単語です。</p>
+        <div class="vocab-list" id="vocabList"></div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Popover Modal for Word Detail -->
+  <div class="modal-overlay hidden" id="wordModalOverlay">
+    <div class="word-modal">
+      <button class="modal-close-btn" id="closeWordModal">✕</button>
+      <div class="modal-word-header">
+        <h3 id="modalWord">word</h3>
+        <span class="modal-phonetic" id="modalPhonetic">/phonetic/</span>
+        <button class="modal-audio-btn" id="speechWordBtn">🔊</button>
+      </div>
+      <div class="modal-badges">
+        <span class="pos-badge" id="modalPartOfSpeech">名詞</span>
+        <span class="toeic-level-badge" id="modalToeicLevel">600点</span>
+      </div>
+      <div class="modal-meaning" id="modalMeaning">意味</div>
+      <div class="modal-note-box">
+        <div class="note-title">🎯 TOEIC出題ポイント & 使い方</div>
+        <p id="modalToeicNote"></p>
+      </div>
+      <button class="bookmark-btn" id="bookmarkBtn">
+        <span class="star-icon">⭐</span> <span id="bookmarkBtnText">マイ単語帳に保存</span>
+      </button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
