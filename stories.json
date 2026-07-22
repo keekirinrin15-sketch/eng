@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "level": "Basic (TOEIC 500-600)",
+    "title": "The Flamingo Secret 🦩",
+    "genre": "Fun Science & Trivia",
+    "targetWordsCount": 3,
+    "words": [
+      {
+        "word": "advantage",
+        "phonetic": "/ədˈvæntɪdʒ/",
+        "partOfSpeech": "名詞",
+        "meaning": "優位性、有利な点、強み",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "take advantage of ~ (〜を活かす / 利用する) はPart 5/7で超頻出表現です。"
+      },
+      {
+        "word": "unexpected",
+        "phonetic": "/ˌʌnɪkˈspektɪd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "予期しない、思いがけない",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "unexpected result (予期せぬ結果) や unexpected expense (不測の費用) などビジネス文脈でも多用されます。"
+      },
+      {
+        "word": "conserve",
+        "phonetic": "/kənˈsɜːrv/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を節約する、保存する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "conserve energy (エネルギーを節約する) や conservation (環境保護) はTOEICのSDGs・環境テーマの定番です。"
+      }
+    ],
+    "originalText": "Have you ever wondered why flamingos stand on one leg? Many people believe they do it to rest, but researchers recently discovered an unexpected advantage. By locking their leg joints, flamingos can stand effortlessly without using muscle power. This unique posture helps them conserve precious body heat in cold water. In addition, scientists noticed that flamingos actually expend less energy on one leg than on two. Nature always finds the most efficient solution for survival.",
+    "slashedText": "Have you ever wondered / why flamingos stand on one leg? // Many people believe / they do it to rest, // but researchers recently discovered / an unexpected advantage. // By locking their leg joints, / flamingos can stand effortlessly / without using muscle power. // This unique posture helps them / conserve precious body heat / in cold water. // In addition, / scientists noticed that / flamingos actually expend less energy / on one leg / than on two. // Nature always finds / the most efficient solution / for survival.",
+    "japaneseTranslation": "フラミンゴがなぜ片足で立つのか疑問に思ったことはありますか？多くの人は休むためだと信じていますが、研究者たちは最近、予期せぬ利点を発見しました。足の関節を固定することで、フラミンゴは筋肉を使わずに楽に立つことができるのです。このユニークな姿勢は、冷たい水中で貴重な体熱を節約するのに役立ちます。さらに、科学者たちは、フラミンゴが2本足よりも片本足のほうが実際に消費エネルギーが少ないことに気づきました。自然界は常に生存のための最も効率的な解決策を見つけ出すのです。",
+    "quiz": {
+      "question": "According to the passage, why do flamingos stand on one leg?",
+      "options": [
+        "A) To save body heat and consume less energy",
+        "B) To scare away dangerous predators in cold water",
+        "C) To exercise their leg muscles for survival",
+        "D) To attract other flamingos in their flock"
+      ],
+      "answer": "A",
+      "explanation": "本文の『conserve precious body heat』および『expend less energy on one leg』から、体熱の節約とエネルギー消費の軽減が理由であることがわかります。"
+    }
+  },
+  {
+    "id": 2,
+    "day": 2,
+    "level": "Basic (TOEIC 500-600)",
+    "title": "Coffee and Productivity ☕",
+    "genre": "Lifestyle & Work",
+    "targetWordsCount": 3,
+    "words": [
+      {
+        "word": "boost",
+        "phonetic": "/buːst/",
+        "partOfSpeech": "動詞 / 名詞",
+        "meaning": "〜を高める、向上させる / 増加",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "boost sales (売上を伸ばす), boost productivity (生産性を向上させる) など超重要単語。"
+      },
+      {
+        "word": "crucial",
+        "phonetic": "/ˈkruːʃl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "極めて重要な、決定的な",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "play a crucial role in ~ (〜において重要な役割を果たす) は要暗記。"
+      },
+      {
+        "word": "moderate",
+        "phonetic": "/ˈmɑːdərət/",
+        "partOfSpeech": "形容詞",
+        "meaning": "適度な、節度のある",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "moderate consumption (適度な摂取) など、健康やビジネスの標準値を表す際に使われます。"
+      }
+    ],
+    "originalText": "Millions of office workers rely on a daily cup of coffee to boost their focus. Caffeine temporarily blocks the brain chemical responsible for sleepiness, making us feel more alert. However, timing is crucial when consuming coffee. Experts suggest waiting about 90 minutes after waking up before drinking your first cup. This allows your natural stress hormone levels to drop, maximizing the benefits of caffeine. A moderate intake can enhance productivity throughout the afternoon without disturbing your night sleep.",
+    "slashedText": "Millions of office workers rely on / a daily cup of coffee / to boost their focus. // Caffeine temporarily blocks / the brain chemical / responsible for sleepiness, / making us feel more alert. // However, / timing is crucial / when consuming coffee. // Experts suggest waiting / about 90 minutes / after waking up / before drinking your first cup. // This allows your natural stress hormone levels / to drop, / maximizing the benefits of caffeine. // A moderate intake / can enhance productivity / throughout the afternoon / without disturbing your night sleep.",
+    "japaneseTranslation": "数百万人のオフィスワーカーが、集中力を高めるために毎日の1杯のコーヒーに頼っています。カフェインは眠気を引き起こす脳内化学物質を一時的にブロックし、私たちをより覚醒させます。しかし、コーヒーを飲むタイミングは極めて重要です。専門家は、起床後約90分待ってから最初の1杯を飲むことを提案しています。これにより、自然なストレスホルモンレベルが下がり、カフェインの効果を最大化できます。適度な摂取は、夜の睡眠を妨げることなく、午後の生産性を向上させることができます。",
+    "quiz": {
+      "question": "When do experts recommend drinking the first cup of coffee?",
+      "options": [
+        "A) Immediately after getting out of bed",
+        "B) Right before going to sleep at night",
+        "C) Approximately 90 minutes after waking up",
+        "D) Late in the evening after work"
+      ],
+      "answer": "C",
+      "explanation": "本文の『Experts suggest waiting about 90 minutes after waking up before drinking your first cup.』に直接記述されています。"
+    }
+  },
+  {
+    "id": 3,
+    "day": 3,
+    "level": "Intermediate (TOEIC 600-750)",
+    "title": "Space Pizza Delivery 🍕",
+    "genre": "Futuristic & Trivia",
+    "targetWordsCount": 3,
+    "words": [
+      {
+        "word": "implement",
+        "phonetic": "/ˈɪmplɪment/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を実行する、実施する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "implement a new system (新しいシステムを導入する), implement a strategy は頻出。"
+      },
+      {
+        "word": "innovative",
+        "phonetic": "/ˈɪnəveɪtɪv/",
+        "partOfSpeech": "形容詞",
+        "meaning": "革新的な、新しい考えを取り入れた",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "innovative technology (革新的な技術), innovative design などポジティブな評価語。"
+      },
+      {
+        "word": "preserve",
+        "phonetic": "/prɪˈzɜːrv/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を保存する、維持する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "preserve freshness (新鮮さを保つ), preserve historic documents などで登場。"
+      }
+    ],
+    "originalText": "In 2001, a global fast-food chain achieved a historic milestone by sending the first pizza into space. The pizza was delivered to astronauts stationed at the International Space Station. To implement this ambitious marketing campaign, engineers had to redesign the recipe. Ordinary pizza crust quickly becomes stale in zero gravity, so they used extra seasoning and a special sauce to preserve freshness. The total cost of the delivery exceeded one million dollars, proving that innovative ideas can truly reach beyond Earth.",
+    "slashedText": "In 2001, / a global fast-food chain achieved / a historic milestone / by sending the first pizza into space. // The pizza was delivered / to astronauts stationed / at the International Space Station. // To implement this ambitious marketing campaign, / engineers had to redesign the recipe. // Ordinary pizza crust / quickly becomes stale in zero gravity, // so they used extra seasoning / and a special sauce / to preserve freshness. // The total cost of the delivery / exceeded one million dollars, / proving that innovative ideas / can truly reach beyond Earth.",
+    "japaneseTranslation": "2001年、あるグローバルファストフードチェーンが、宇宙に初めてピザを届けるという歴史的な快挙を達成しました。ピザは国際宇宙ステーションに滞在する宇宙飛行士たちに届けられました。この野心的なマーケティングキャンペーンを実施するため、エンジニアたちはレシピを再設計しなければなりませんでした。普通のピザの生地は無重力空間ではすぐにパサパサになってしまうため、彼らは特別調味料と特別なソースを使って新鮮さを保ちました。配送にかかった総費用は100万ドル（約1.5億円）を超え、革新的なアイデアは本当に地球を超えて届くことを証明しました。",
+    "quiz": {
+      "question": "Why did engineers redesign the pizza recipe for space delivery?",
+      "options": [
+        "A) To make the pizza lighter for rocket launch",
+        "B) To keep the crust fresh in zero gravity",
+        "C) To reduce the total production cost",
+        "D) To make the pizza larger for astronauts"
+      ],
+      "answer": "B",
+      "explanation": "本文の『Ordinary pizza crust quickly becomes stale in zero gravity, so they used extra seasoning and a special sauce to preserve freshness.』より無重力下で品質と新鮮さを維持するためです。"
+    }
+  },
+  {
+    "title": "The Most Productive System Glitch Ever 😴🤖",
+    "genre": "Office Comedy / Tech",
+    "level": "Intermediate (TOEIC 600-750)",
+    "originalText": "Last month, Apex Solutions implemented a new AI calendar assistant to increase workplace efficiency. However, a minor technical glitch occurred during installation. The software automatically scheduled a mandatory \"Power Nap\" meeting for all staff members every day at 2:00 PM. Unaware that this was an error, employees obediently stopped working and rested for twenty minutes each afternoon. To management's surprise, overall productivity dramatically increased over the next three weeks. Recognizing the unexpected benefit, the chief executive officer decided to keep the glitch as a permanent corporate policy. Now, taking afternoon naps is officially part of their job duties.",
+    "slashedText": "Last month, / Apex Solutions implemented a new AI calendar assistant / to increase workplace efficiency. / However, / a minor technical glitch occurred / during installation. / The software automatically scheduled / a mandatory \"Power Nap\" meeting / for all staff members / every day at 2:00 PM. / Unaware that this was an error, / employees obediently stopped working / and rested for twenty minutes / each afternoon. / To management's surprise, / overall productivity dramatically increased / over the next three weeks. / Recognizing the unexpected benefit, / the chief executive officer decided / to keep the glitch / as a permanent corporate policy. / Now, / taking afternoon naps / is officially part of their job duties.",
+    "japaneseTranslation": "先月、エイペックス・ソリューションズ社は職場の効率性を高めるために新しいAIカレンダーアシスタントを導入しました。しかし、導入時に軽微なシステム障害が発生しました。そのソフトウェアは、毎日午後2時に全社員を対象とした必須の「パワーナップ（仮眠）」ミーティングを自動的にスケジュールしてしまったのです。これがエラーだとは知らず、従業員たちは素直に作業を中断し、毎午後20分間の休息を取りました。経営陣の驚いたことに、その後の3週間で全体の生産性が劇的に向上しました。思いがけない効果を認めた最高経営責任者（CEO）は、このバグを永続的な社内規定として残すことを決定しました。現在では、午後の仮眠を取ることも正式に業務の一環とみなされています。",
+    "words": [
+      {
+        "word": "implement",
+        "phonetic": "/ˈɪmplɪmɛnt/",
+        "partOfSpeech": "動詞",
+        "meaning": "（計画や政策などを）実行する、導入する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「新しいシステムや制度を導入する（implement a new system/policy）」という文脈で非常によく出題されます。"
+      },
+      {
+        "word": "glitch",
+        "phonetic": "/ɡlɪtʃ/",
+        "partOfSpeech": "名詞",
+        "meaning": "（機器やシステムの）小さな不具合、障害",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "IT関連の文脈や、システムの遅延・エラーの原因を説明する際によく使われる語彙です。"
+      },
+      {
+        "word": "mandatory",
+        "phonetic": "/ˈmændətɔːri/",
+        "partOfSpeech": "形容詞",
+        "meaning": "義務的な、必須の",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「mandatory training（必修研修）」や「mandatory meeting（全員参加の会議）」などの形でパーツ5や7に頻出します。"
+      },
+      {
+        "word": "productivity",
+        "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ビジネス・業務改善のテーマで必須の語幹動詞 produce や形容詞 productive とセットで覚えておきましょう。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the CEO decide to keep the automated 'Power Nap' meeting?",
+      "options": [
+        "A) The software glitch could not be fixed.",
+        "B) Employee productivity improved significantly.",
+        "C) It was required by a new labor policy.",
+        "D) Workers complained about being too exhausted."
+      ],
+      "answer": "B",
+      "explanation": "本文の \"To management's surprise, overall productivity dramatically increased... Recognizing the unexpected benefit, the chief executive officer decided to keep the glitch...\"（経営陣が驚いたことに全体の生産性が劇的に向上し、CEOがその効果を認めて決定した）という記述から、正解は B です。"
+    },
+    "id": 4,
+    "day": 4
+  }
+]
