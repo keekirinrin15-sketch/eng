@@ -6,17 +6,22 @@ on:
     - cron: '0 22 * * *'
   workflow_dispatch: # GitHubの管理画面から手動で即時実行ボタンを押すことも可能
 
+permissions:
+  contents: write
+
 jobs:
   deliver-story:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Generate AI Story and Send Notification
         env:
