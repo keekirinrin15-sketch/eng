@@ -315,5 +315,60 @@
     },
     "id": 6,
     "day": 6
+  },
+  {
+    "title": "The Caring Coffee Machine ☕️🤖",
+    "genre": "Office Comedy",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "The management at Synergy Corp. recently installed a state-of-the-art espresso machine in the break room. Equipped with artificial intelligence, the machine analyzes an employee's facial expression to predict their stress level and brews a customized coffee accordingly. On its first day, the marketing director, Mr. Davis, approached the machine after a frustrating meeting. Expecting a strong double espresso, he was surprised when the machine dispensed a hot cup of chamomile tea along with a printed message: \"You need a break, not caffeine.\" Although some staff members initially complained about the unsolicited advice, productivity has surprisingly increased by fifteen percent.",
+    "slashedText": "The management at Synergy Corp. / recently installed / a state-of-the-art espresso machine / in the break room. / Equipped with artificial intelligence, / the machine analyzes / an employee's facial expression / to predict their stress level / and brews a customized coffee accordingly. / On its first day, / the marketing director, Mr. Davis, / approached the machine / after a frustrating meeting. / Expecting a strong double espresso, / he was surprised / when the machine dispensed / a hot cup of chamomile tea / along with a printed message: / \"You need a break, not caffeine.\" / Although some staff members / initially complained about / the unsolicited advice, / productivity has surprisingly increased / by fifteen percent.",
+    "japaneseTranslation": "シナジー社の経営陣は最近、休憩室に最新式のエスプレッソマシンを設置しました。人工知能を搭載したこのマシンは、従業員の表情を分析してストレス度合いを予測し、それに応じてカスタマイズされたコーヒーを淹れます。稼働初日、マーケティング部長のデイビス氏は、イライラする会議の後でマシンに近づきました。濃いダブルエスプレッソを期待していた彼は、マシンが熱いカモミールティーと「カフェインではなく、休憩が必要です」という印刷されたメッセージを出してきたので驚きました。一部のスタッフは最初、頼んでもいないアドバイスに不満を漏らしたものの、驚くべきことに生産性は15％向上しました。",
+    "words": [
+      {
+        "word": "install",
+        "phonetic": "/ɪnˈstɔːl/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を設置する、導入する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「機器を設置する」だけでなく「新しいシステム・ソフトを導入する」の意味でも多用されます。"
+      },
+      {
+        "word": "customize",
+        "phonetic": "/ˈkʌstəmaɪz/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を仕様に合わせて作る、カスタマイズする",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "名詞形の custom (注文作りの) や customized service (顧客に応じたサービス) なども頻出です。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspens/",
+        "partOfSpeech": "動詞",
+        "meaning": "（機械などが商品を）出す、分配する",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "vending machine (自動販売機) や water dispenser (給水機) の文脈でよく使用されます。"
+      },
+      {
+        "word": "unsolicited",
+        "phonetic": "/ˌʌnsəˈlɪsɪtɪd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "頼んでいない、押し付けの、未承諾の",
+        "toeicLevel": "800点レベル",
+        "toeicNote": "unsolicited advice (求めていないアドバイス) や unsolicited email (スパムメール) という表現で使われます。"
+      }
+    ],
+    "quiz": {
+      "question": "What did the espresso machine do when Mr. Davis used it?",
+      "options": [
+        "A) It gave him a strong double espresso to wake him up.",
+        "B) It broke down after analyzing his facial expression.",
+        "C) It served chamomile tea and printed a advice message.",
+        "D) It refused to serve him until he smiled."
+      ],
+      "answer": "C",
+      "explanation": "本文の \"the machine dispensed a hot cup of chamomile tea along with a printed message\" から、マシンはカモミールティーとアドバイスのメッセージを出したことが分かります。したがってCが正解です。"
+    },
+    "id": 7,
+    "day": 7
   }
 ]
