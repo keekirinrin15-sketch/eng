@@ -262,20 +262,36 @@
     "day": 5
   },
   {
-    "title": "The Purr-fect Productivity Hack 🐱",
-    "genre": "Office Comedy",
+    "title": "☕ The Terrifyingly Smart Coffee Machine",
+    "genre": "Office Comedy / Tech",
     "level": "Intermediate (TOEIC 700)",
-    "originalText": "Mr. Henderson, the regional manager, intended to send a brief memo regarding office efficiency. However, a typo in his message announced a mandatory Cat Appreciation Hour every Friday afternoon to reduce employee stress. Unaware of the mistake, staff members brought their pets to the conference room the following Friday. Instead of causing chaos, the presence of the cats significantly boosted morale and encouraged cross-departmental collaboration. Employees reported feeling more relaxed and creative. Surprised by the positive outcome, Mr. Henderson decided to officially approve the policy, proving that sometimes accidental mistakes can lead to unexpected workplace innovation.",
-    "slashedText": "Mr. Henderson, / the regional manager, / intended to send a brief memo / regarding office efficiency. / However, / a typo in his message / announced a mandatory \"Cat Appreciation Hour\" / every Friday afternoon / to reduce employee stress. / Unaware of the mistake, / staff members brought their pets / to the conference room / the following Friday. / Instead of causing chaos, / the presence of the cats / significantly boosted morale / and encouraged cross-departmental collaboration. / Employees reported / feeling more relaxed and creative. / Surprised by the positive outcome, / Mr. Henderson decided / to officially approve the policy, / proving that sometimes accidental mistakes / can lead to unexpected workplace innovation.",
-    "japaneseTranslation": "地域支配人のヘンダーソン氏は、オフィスの業務効率に関する短い通達を送るつもりでした。しかし、彼のメッセージの誤植により、従業員のストレスを軽減するための毎週金曜午後の義務的な「猫感謝アワー」が告知されてしまいました。間違いに気づかないまま、スタッフは翌週の金曜日にペットを会議室に連れてきました。大混乱を引き起こすどころか、猫たちの存在は士気を大幅に高め、部署間の協力を促進しました。従業員はよりリラックスし、創造的になったと報告しました。この良い結果に驚いたヘンダーソン氏は、この方針を正式に承認することに決め、偶発的なミスが予想外の職場の革新につながることもあると証明しました。",
+    "originalText": "The modern office had just installed a revolutionary smart coffee machine designed to boost productivity. Equipped with advanced sensors, it promised to predict employees' preferences based on their stress levels. On its first day, Marketing Manager Sarah walked up to the machine after an exhausting presentation. Instead of her usual mild latte, the machine analyzed her fast heart rate and automatically dispensed a triple shot of dark espresso. Accompanying her drink was a printed receipt stating: 'High tension detected. Mandatory caffeine boost initiated.' Surprised, Sarah drank it and ended up finishing three reports before noon. The machine quickly became the company's most popular, yet feared, colleague.",
+    "slashedText": "The modern office / had just installed / a revolutionary smart coffee machine / designed to boost productivity. / Equipped with advanced sensors, / it promised to predict / employees' preferences / based on their stress levels. / On its first day, / Marketing Manager Sarah walked up to the machine / after an exhausting presentation. / Instead of her usual mild latte, / the machine analyzed her fast heart rate / and automatically dispensed / a triple shot of dark espresso. / Accompanying her drink / was a printed receipt stating: / 'High tension detected. / Mandatory caffeine boost initiated.' / Surprised, Sarah drank it / and ended up finishing three reports / before noon. / The machine quickly became / the company's most popular, / yet feared, colleague.",
+    "japaneseTranslation": "その現代的なオフィスは、生産性を向上させるために設計された革新的なスマートコーヒーマシンを設置したばかりでした。高度なセンサーを備えたそのマシンは、従業員のストレスレベルに基づいて好みを予測することを約束していました。稼働初日、マーケティングマネージャーのサラは疲れるプレゼンテーションを終えた後、マシンの前へ歩いていきました。いつものマイルドなラテの代わりに、マシンは彼女の速い心拍数を分析し、トリプルショットの濃いエスプレッソを自動的に抽出しました。飲み物には「高緊張を検知。必須のカフェイン補給を開始しました」と書かれたレシートが添えられていました。驚いたサラはそれを飲み、結果的に正午までに3つのレポートを仕上げてしまいました。そのマシンはすぐに、会社で最も人気があり、かつ恐れられる同僚となりました。",
     "words": [
       {
-        "word": "regarding",
-        "phonetic": "/rɪˈɡɑːrdɪŋ/",
-        "partOfSpeech": "前置詞",
-        "meaning": "〜に関して、〜について",
+        "word": "predict",
+        "phonetic": "/prɪˈdɪkt/",
+        "partOfSpeech": "動詞",
+        "meaning": "予測する、予報する",
         "toeicLevel": "600点レベル",
-        "toeicNote": "TOEICのビジネスメールやアナウンスで頻出する「about」のフォーマルな同義語。"
+        "toeicNote": "TOEICでは売上予測 (predict sales) や市場動向の予測などの文脈で多用されます。名詞形は prediction。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspɛns/",
+        "partOfSpeech": "動詞",
+        "meaning": "（自動販売機などが商品を）出す、分配する",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "自動販売機（vending machine）や薬局での調剤（dispense medication）の文脈によく登場します。"
+      },
+      {
+        "word": "accompany",
+        "phonetic": "/əˈkʌmpəni/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜に添える、〜に同行する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは『書類に資料を添える』(accompany a document) や『〜に同行する』というビジネス文脈で必須の単語です。"
       },
       {
         "word": "mandatory",
@@ -283,35 +299,19 @@
         "partOfSpeech": "形容詞",
         "meaning": "義務的な、強制的な",
         "toeicLevel": "730点レベル",
-        "toeicNote": "「mandatory training（必須研修）」のように、社内規則や講習の文脈でよく出題されます。"
-      },
-      {
-        "word": "morale",
-        "phonetic": "/məˈræl/",
-        "partOfSpeech": "名詞",
-        "meaning": "士気、意気込み",
-        "toeicLevel": "730点レベル",
-        "toeicNote": "発音注意（モラール）。「boost morale（士気を高める）」や「improve morale」は定型表現です。"
-      },
-      {
-        "word": "collaboration",
-        "phonetic": "/kəˌlæbəˈreɪʃn/",
-        "partOfSpeech": "名詞",
-        "meaning": "協力、協同",
-        "toeicLevel": "600点レベル",
-        "toeicNote": "動詞「collaborate with（〜と協力する）」と合わせて非常によく出題されます。"
+        "toeicNote": "『必須の研修』(mandatory training) や『義務的な参加』(mandatory attendance) などのフレーズで高頻度に出題されます。"
       }
     ],
     "quiz": {
-      "question": "Why did staff members bring their pets to the office?",
+      "question": "Why did the coffee machine dispense a triple shot of dark espresso to Sarah?",
       "options": [
-        "A) Mr. Henderson ordered a mandatory pet inspection.",
-        "B) They reacted to a typo in an official company memo.",
-        "C) A professional cat trainer was giving a demonstration.",
-        "D) They were participating in an official pet adoption drive."
+        "A) She manually selected it on the machine's touchscreen.",
+        "B) It detected her high stress level through her fast heart rate.",
+        "C) The machine had run out of milk for her usual latte.",
+        "D) Her boss sent an automatic order to increase her workload."
       ],
       "answer": "B",
-      "explanation": "文章内に「a typo in his message announced a mandatory Cat Appreciation Hour... Unaware of the mistake, staff members brought their pets...」とあり、通達メールの誤植（タイポ）を真に受けたためであることが分かります。したがって正解は B です。"
+      "explanation": "本文中の 'the machine analyzed her fast heart rate and automatically dispensed a triple shot...'（マシンは彼女の速い心拍数を分析し、トリプルショットを自動的に抽出した）から、ストレス（高心拍数）を検知したためであることが分かります。よって正解はBです。"
     },
     "id": 6,
     "day": 6
