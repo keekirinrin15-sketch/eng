@@ -370,5 +370,60 @@
     },
     "id": 7,
     "day": 7
+  },
+  {
+    "title": "☕ The Overly Sensitive Coffee Machine",
+    "genre": "Office Comedy / Tech",
+    "level": "Intermediate (TOEIC 650)",
+    "originalText": "At Summit Enterprises, the management recently installed an automated coffee machine equipped with voice-recognition software to boost employee productivity. However, the system requires extremely precise instructions. Yesterday, Mr. Harrison, the senior marketing director, attempted to order a simple espresso before an urgent board meeting. Unfamiliar with the complex interface, he mistakenly requested a \"giant bucket of caffeine.\" The machine immediately processed his command as a severe system error and locked all office doors for safety reasons. Consequently, the entire department missed the crucial presentation. Management has temporarily suspended the machine pending software modifications.",
+    "slashedText": "At Summit Enterprises, / the management recently installed / an automated coffee machine / equipped with voice-recognition software / to boost employee productivity. / However, / the system requires / extremely precise instructions. / Yesterday, / Mr. Harrison, / the senior marketing director, / attempted to order a simple espresso / before an urgent board meeting. / Unfamiliar with the complex interface, / he mistakenly requested / a \"giant bucket of caffeine.\" / The machine immediately processed his command / as a severe system error / and locked all office doors / for safety reasons. / Consequently, / the entire department missed / the crucial presentation. / Management has temporarily suspended the machine / pending software modifications.",
+    "japaneseTranslation": "サミット・エンタープライズ社では、従業員の生産性を向上させるため、経営陣が最近、音声認識ソフトウェアを搭載した全自動コーヒーマシンを導入しました。しかし、そのシステムは非常に正確な指示を必要とします。昨日、マーケティング最高責任者のハリソン氏は、急ぎの役員会の前にシンプルなエスプレッソを注文しようとしました。複雑な操作画面に慣れていなかった彼は、誤って「巨大なバケツ一杯のカフェイン」と要求してしまいました。マシンはすぐに彼のコマンドを深刻なシステムエラーとして処理し、安全上の理由からオフィスのドアをすべて施錠しました。その結果、部署全体が重要なプレゼンテーションに出席し損ねてしまいました。経営陣はソフトウェアの改修が完了するまで、マシンの使用を一時的に停止しています。",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ビジネスで超頻出。「boost productivity（生産性を向上させる）」の形でよく使われます。"
+      },
+      {
+        "word": "crucial",
+        "phonetic": "/ˈkruːʃl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "極めて重要な、決定的な",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「important」の強調表現としてPart 6や7でよく登場します。"
+      },
+      {
+        "word": "suspend",
+        "phonetic": "/səˈspend/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を一時停止する、中断する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「suspend operations（業務を停止する）」のように、サービスや業務の停止を伝える社内通知で出題されます。"
+      },
+      {
+        "word": "pending",
+        "phonetic": "/ˈpendɪŋ/",
+        "partOfSpeech": "前置詞",
+        "meaning": "〜を待つ間、〜の決定までは",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "Part 5の文法・語彙問題で難易度の高い前置詞として登場します。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the department miss the important presentation?",
+      "options": [
+        "A) The coffee machine locked the office doors after receiving an unusual command.",
+        "B) Mr. Harrison forgot the scheduled time for the board meeting.",
+        "C) The voice-recognition software broke down due to a power outage.",
+        "D) Employees spent too much time waiting in line for coffee."
+      ],
+      "answer": "A",
+      "explanation": "ハリソン氏が「バケツ一杯のカフェイン」というおかしな注文（command）をしたため、マシンがシステムエラーと認識してドアをロックし、全員閉じ込められてプレゼンに出られなくなりました。したがってAが正解です。"
+    },
+    "id": 8,
+    "day": 8
   }
 ]
