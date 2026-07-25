@@ -425,5 +425,60 @@
     },
     "id": 8,
     "day": 8
+  },
+  {
+    "title": "The Unexpected Office Mascot 🦎",
+    "genre": "Business",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "Last Tuesday, the HR department at Apex Corporation sent an urgent memo to all employees regarding the upcoming company picnic. Due to a minor clerical error, the email stated that staff members were required to bring an exotic reptile instead of a side dish. While most employees recognized the typo, Mr. Harrison, an enthusiastic junior accountant, took the instruction literally. He arrived at the office the next morning carrying a large iguana named Norbert. Fortunately, the executive board was amused by his enthusiasm and officially promoted him to Chief Morale Officer.",
+    "slashedText": "Last Tuesday, / the HR department at Apex Corporation / sent an urgent memo / to all employees / regarding the upcoming company picnic. / Due to a minor clerical error, / the email stated / that staff members were required / to bring an exotic reptile / instead of a side dish. / While most employees / recognized the typo, / Mr. Harrison, / an enthusiastic junior accountant, / took the instruction literally. / He arrived at the office / the next morning / carrying a large iguana named Norbert. / Fortunately, / the executive board was amused / by his enthusiasm / and officially promoted him / to Chief Morale Officer.",
+    "japaneseTranslation": "先週の火曜日、エイペックス社的人事部は、今度の社内ピクニックに関して全従業員に緊急の社内報を送信しました。ちょっとした事務上の手違いにより、メールにはスタッフは副菜の代わりに珍しい爬虫類を持参する必要があると記載されていました。ほとんどの従業員は誤字だと気付きましたが、熱心な若手会計士であるハリソン氏は、その指示を文字通りに受け取りました。彼は翌朝、ノーバートという名前の大きなイグアナを連れてオフィスに到着しました。幸いなことに、役員会は彼の熱意を面白がり、彼を正式に「最高士気責任者」に昇進させました。",
+    "words": [
+      {
+        "word": "clerical",
+        "phonetic": "/ˈklɛrɪkəl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "事務の、書記の",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは clerical error (事務的ミス、誤記) や clerical staff (事務職員) という表現で非常によく出題されます。"
+      },
+      {
+        "word": "literally",
+        "phonetic": "/ˈlɪtərəli/",
+        "partOfSpeech": "副詞",
+        "meaning": "文字通りに、まさに",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「言葉通りの意味で」という意味を表します。TOEICのパート7などで文脈理解のキーとなることがあります。"
+      },
+      {
+        "word": "amused",
+        "phonetic": "/əˈmjuːzd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "面白がって、楽しんで",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "人の感情を表す形容詞。be amused by/at (~を楽しんでいる、面白がっている) の形でよく使われます。"
+      },
+      {
+        "word": "morale",
+        "phonetic": "/məˈrɑːl/",
+        "partOfSpeech": "名詞",
+        "meaning": "士気、意気込み",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "boost employee morale (従業員の士気を高める) など、職場環境や人事関連の文章で頻出の重要単語です。moral (道徳) との発音・スペル違いに注意。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did Mr. Harrison bring an iguana to the office?",
+      "options": [
+        "A) He wanted to show off his new pet.",
+        "B) He misunderstood a mistake in an HR email.",
+        "C) He was assigned to take care of the company mascot.",
+        "D) He was asked to give a presentation on reptiles."
+      ],
+      "answer": "B",
+      "explanation": "文章内に「Due to a minor clerical error... took the instruction literally（ちょっとした事務上の手違いにより…指示を文字通りに受け取った）」とあるため、「HR（人事部）のメール内のミスを誤解した」を意味する B が正解です。"
+    },
+    "id": 9,
+    "day": 9
   }
 ]
