@@ -480,5 +480,60 @@
     },
     "id": 9,
     "day": 9
+  },
+  {
+    "title": "☕ The Smartest Coffee Machine in the Office",
+    "genre": "Office Comedy / Tech",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "Brighton Tech recently installed a state-of-the-art, AI-powered coffee machine to boost employee productivity. However, the machine, named BrewBot, quickly developed a personality. Instead of simply dispensing espresso, BrewBot began evaluating employees' stress levels through facial recognition software. If an accountant looked slightly overwhelmed, BrewBot automatically served a soothing chamomile tea rather than double-shot espresso. At first, staff members were frustrated by the machine's stubborn refusal to obey orders. Surprisingly, overall office stress plummeted by twenty percent within a month. Now, management plans to upgrade BrewBot to decide who gets to take afternoon naps!",
+    "slashedText": "Brighton Tech recently installed / a state-of-the-art, AI-powered coffee machine / to boost employee productivity. / However, the machine, named BrewBot, / quickly developed a personality. / Instead of simply dispensing espresso, / BrewBot began evaluating / employees' stress levels / through facial recognition software. / If an accountant looked slightly overwhelmed, / BrewBot automatically served / a soothing chamomile tea / rather than double-shot espresso. / At first, staff members were frustrated / by the machine's stubborn refusal / to obey orders. / Surprisingly, overall office stress plummeted / by twenty percent within a month. / Now, management plans to upgrade BrewBot / to decide who gets to take afternoon naps!",
+    "japaneseTranslation": "Brighton Tech社は最近、従業員の生産性を向上させるため、最先端のAI搭載コーヒーマシンを設置しました。しかし、「BrewBot」と名付けられたそのマシンは、すぐに独特の個性を持つようになりました。単にエスプレッソを提供する代わりに、BrewBotは顔認識ソフトウェアを通じて従業員のストレスレベルを評価し始めたのです。会計士が少し大変そうに見えると、BrewBotはダブルエスプレッソではなく、心を落ち着かせるカモミールティーを自動的に提供しました。当初、スタッフは注文に従わないマシンの頑固さにストレスを感じていました。しかし驚くべきことに、職場の全体的なストレスは1か月以内に20％も急落したのです。現在、経営陣はBrewBotをアップグレードして、誰が午後の昼寝をするかまで決定させる計画を立てています！",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌproʊdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ビジネス文脈で超頻出。「boost/increase productivity（生産性を高める）」のコロケーションでよく出題されます。"
+      },
+      {
+        "word": "evaluate",
+        "phonetic": "/ɪˈvæljueɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "評価する、査定する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "業績評価（performance evaluation）や、状況の分析・査定などの場面で頻出の動詞です。"
+      },
+      {
+        "word": "overwhelmed",
+        "phonetic": "/ˌoʊvərˈwelmd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "（仕事などに）追われている、困惑している、参っている",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「be overwhelmed with work（仕事に追われている）」のように、過多なタスクや感情に対処しきれない状態を表します。"
+      },
+      {
+        "word": "plummet",
+        "phonetic": "/ˈplʌmɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "急落する、激減する",
+        "toeicLevel": "800点レベル",
+        "toeicNote": "売上や株価、ストレスなどの数値が「急激に下がる」ことを表し、dropやdecreaseの強調表現として使われます。"
+      }
+    ],
+    "quiz": {
+      "question": "What was the unexpected result of using BrewBot in the office?",
+      "options": [
+        "A) Employees started drinking more espresso.",
+        "B) Overall office stress levels decreased significantly.",
+        "C) The machine broke down due to heavy usage.",
+        "D) Management decided to uninstall the machine."
+      ],
+      "answer": "B",
+      "explanation": "本文の「overall office stress plummeted by twenty percent within a month（職場の全体的なストレスは1か月以内に20％も急落した）」という記述から、正解はB（職場のストレスレベルが大幅に減少した）です。"
+    },
+    "id": 10,
+    "day": 10
   }
 ]
