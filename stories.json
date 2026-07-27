@@ -535,5 +535,68 @@
     },
     "id": 10,
     "day": 10
+  },
+  {
+    "title": "☕ The Bossy Coffee Machine",
+    "genre": "Business",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "To boost productivity, Apex Tech recently installed a state-of-the-art AI coffee machine in the employee breakroom. The machine was designed to customize beverages based on user preferences. However, employees soon faced an unexpected obstacle. The machine synchronized with their electronic schedules and wearable stress monitors. If a staff member was excessively stressed or running late for a meeting, the coffee maker refused to dispense espresso, offering only herbal tea instead. It even displayed messages insisting that the user take a mandatory break. Although initially frustrated by the strict system, employees eventually reported feeling more relaxed and focused throughout the workday.",
+    "slashedText": "To boost productivity, / Apex Tech recently installed / a state-of-the-art AI coffee machine / in the employee breakroom. / The machine was designed / to customize beverages / based on user preferences. / However, / employees soon faced / an unexpected obstacle. / The machine synchronized with / their electronic schedules / and wearable stress monitors. / If a staff member was excessively stressed / or running late for a meeting, / the coffee maker refused to dispense espresso, / offering only herbal tea instead. / It even displayed messages / insisting that the user / take a mandatory break. / Although initially frustrated / by the strict system, / employees eventually reported / feeling more relaxed and focused / throughout the workday.",
+    "japaneseTranslation": "生産性を向上させるため、エイペックス・テック社は最近、社員用休憩室に最新のAIコーヒーマシンを設置しました。そのマシンは、ユーザーの好みに基づいて飲み物をカスタマイズするように設計されていました。しかし、従業員たちはすぐに予想外の障害に直面しました。マシンが彼らのデジタルスケジュールやウェアラブルストレスモニターと同期したのです。もしスタッフが過度にストレスを感じていたり、会議に遅れそうになっていたりすると、コーヒーメーカーはエスプレッソの抽出を拒否し、代わりにハーブティーだけを提供しました。ユーザーに強制的な休憩を取るよう主張するメッセージを表示することさえありました。最初は厳しいシステムに不満を感じていたものの、従業員たちは最終的に一日の業務を通じてよりリラックスし、集中できるようになったと報告しました。",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌproʊ.dʌkˈtɪv.ə.t̬i/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは『boost productivity（生産性を向上させる）』や『increase productivity』のコロケーションで頻出します。"
+      },
+      {
+        "word": "state-of-the-art",
+        "phonetic": "/ˌsteɪt.əv.ðiːˈɑːrt/",
+        "partOfSpeech": "形容詞",
+        "meaning": "最新式の、最高技術の",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "『state-of-the-art technology / equipment（最新技術・設備）』のように、オフィス機器や製品のアピール文でよく使われます。"
+      },
+      {
+        "word": "obstacle",
+        "phonetic": "/ˈɑːb.stə.kəl/",
+        "partOfSpeech": "名詞",
+        "meaning": "障害、障害物",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "『face an obstacle（障害に直面する）』や『overcome an obstacle（障害を克服する）』などの形で出題されます。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspens/",
+        "partOfSpeech": "動詞",
+        "meaning": "（製品や飲み物などを）提供する、自動で出す",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "自動販売機（vending machine）やディスペンサーに関連して、液体や商品を給出・分配する文脈で登場します。"
+      },
+      {
+        "word": "mandatory",
+        "phonetic": "/ˈmæn.də.tɔːr.i/",
+        "partOfSpeech": "形容詞",
+        "meaning": "義務的な、強制的な",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "TOEICでは『mandatory training（必修研修）』や『mandatory meeting（出席必須の会議）』のフレーズで非常に頻出です。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the coffee machine refuse to serve espresso to some employees?",
+      "options": [
+        "A) It ran out of coffee beans.",
+        "B) The employees were stressed or late for meetings.",
+        "C) The machine was undergoing maintenance.",
+        "D) The employees forgot to pay for their drinks."
+      ],
+      "answer": "B",
+      "explanation": "本文の「If a staff member was excessively stressed or running late for a meeting, the coffee maker refused to dispense espresso...」という部分から、従業員がストレスを感じているか会議に遅れそうな場合にエスプレッソの提供を拒否したことが分かります。したがって正解は B です。"
+    },
+    "id": 11,
+    "day": 11
   }
 ]
