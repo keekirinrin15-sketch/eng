@@ -598,5 +598,60 @@
     },
     "id": 11,
     "day": 11
+  },
+  {
+    "title": "🤖 The Accidental Genius",
+    "genre": "Office Comedy",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "Mark, a marketing assistant at Apex Solutions, accidentally set his vacation auto-reply to: \"I am away escaping my responsibilities. Please contact someone who actually cares.\" He meant to send this as a joke to his colleague, but applied it system-wide by mistake. Minutes later, the CEO emailed him regarding an urgent project report. Upon receiving Mark's bizarre auto-reply, the CEO was unexpectedly amused rather than angry. He praised Mark's \"refreshing honesty\" in a company-wide email and granted him a promotion to creative director. Mark quickly learned that in corporate culture, timing is everything.",
+    "slashedText": "Mark, a marketing assistant / at Apex Solutions, / accidentally set / his vacation auto-reply to: / \"I am away / escaping my responsibilities. / Please contact someone / who actually cares.\" / He meant to send this / as a joke to his colleague, / but applied it system-wide / by mistake. / Minutes later, / the CEO emailed him / regarding an urgent project report. / Upon receiving Mark's bizarre auto-reply, / the CEO was unexpectedly amused / rather than angry. / He praised Mark's \"refreshing honesty\" / in a company-wide email / and granted him a promotion / to creative director. / Mark quickly learned / that in corporate culture, / timing is everything.",
+    "japaneseTranslation": "エイペックス・ソリューションズ社のマーケティング・アシスタントであるマークは、休暇中の自動返信を誤って「責任から逃亡中です。本当に気にかけている人に連絡してください」と設定してしまいました。彼は同僚へのジョークとして送信するつもりでしたが、手違いでシステム全体に適用してしまったのです。数分後、CEOが緊急のプロジェクト報告に関して彼にメールを送りました。マークの奇妙な自動返信を受け取ったCEOは、怒るどころか予想外にも面白がりました。CEOは全社メールでマークの「新鮮なまでの正直さ」を称賛し、彼をクリエイティブ・ディレクターに昇進させました。マークは企業文化においてタイミングがすべてであることを身をもって学びました。",
+    "words": [
+      {
+        "word": "colleague",
+        "phonetic": "/ˈkɑːliːɡ/",
+        "partOfSpeech": "名詞",
+        "meaning": "同僚",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "職場・ビジネス文脈で頻出の単語。「coworker」と同義。"
+      },
+      {
+        "word": "regarding",
+        "phonetic": "/rɪˈɡɑːrdɪŋ/",
+        "partOfSpeech": "前置詞",
+        "meaning": "～に関して、～について",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「about」や「concerning」のビジネス表現としてパート5・6・7で非常によく使われます。"
+      },
+      {
+        "word": "bizarre",
+        "phonetic": "/bɪˈzɑːr/",
+        "partOfSpeech": "形容詞",
+        "meaning": "奇妙な、異様な",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「strange」や「unusual」の強調表現として日常やニュースで使われます。"
+      },
+      {
+        "word": "grant",
+        "phonetic": "/ɡrænt/",
+        "partOfSpeech": "動詞",
+        "meaning": "～を与える、～を許諾・授与する",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「grant a promotion（昇進を与える）」や「grant permission（許可を与える）」の形でよく登場します。"
+      }
+    ],
+    "quiz": {
+      "question": "Why was Mark promoted by the CEO?",
+      "options": [
+        "A) He completed an urgent project report on time.",
+        "B) The CEO appreciated his 'refreshing honesty' in the auto-reply.",
+        "C) He voluntarily worked during his paid vacation.",
+        "D) He pointed out a system error in a company-wide email."
+      ],
+      "answer": "B",
+      "explanation": "文中後半で「He praised Mark's 'refreshing honesty' in a company-wide email and granted him a promotion...（CEOは全社メールでマークの『新鮮なまでの正直さ』を称賛し、昇進を与えた）」とあるため、正解はBです。"
+    },
+    "id": 12,
+    "day": 12
   }
 ]
