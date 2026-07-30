@@ -708,5 +708,60 @@
     },
     "id": 13,
     "day": 13
+  },
+  {
+    "title": "☕ The Great Coffee Machine Crisis",
+    "genre": "Business / Office Comedy",
+    "level": "Basic (TOEIC 600)",
+    "originalText": "When the executive espresso machine at Apex Solutions broke down on Monday morning, productivity plummeted immediately. Employees wandered aimlessly through the hallways, holding empty mugs with desperate expressions. Recognizing the urgency, the facility manager, Sarah, placed an emergency service request. By noon, a technician arrived and diagnosed the problem: a tiny plastic valve was clogged with extra-fine coffee grounds. Within twenty minutes, the component was replaced, and the aromatic brew flowed once again. Cheerful chatter instantly filled the breakroom. Impressed by her swift response, the CEO praised Sarah during the afternoon meeting, jokingly promoting her to Director of Beverage Reliability.",
+    "slashedText": "When the executive espresso machine / at Apex Solutions / broke down on Monday morning, / productivity plummeted immediately. / Employees wandered aimlessly / through the hallways, / holding empty mugs / with desperate expressions. / Recognizing the urgency, / the facility manager, Sarah, / placed an emergency service request. / By noon, / a technician arrived / and diagnosed the problem: / a tiny plastic valve / was clogged with extra-fine coffee grounds. / Within twenty minutes, / the component was replaced, / and the aromatic brew / flowed once again. / Cheerful chatter / instantly filled the breakroom. / Impressed by her swift response, / the CEO praised Sarah / during the afternoon meeting, / jokingly promoting her / to Director of Beverage Reliability.",
+    "japaneseTranslation": "月曜日の朝、エイペックス・ソリューションズ社にある役員用のエスプレッソマシンが故障したとき、生産性はすぐに急降下しました。従業員たちは絶望的な表情で空のマグカップを持ち、廊下をあてもなくさまよいました。緊急性を認識した設備管理者のサラは、緊急修理を要請しました。正午までに技術者が到着し、問題を診断しました。小さなプラスチック製のバルブが極細のコーヒー粉で詰まっていたのです。20分以内に部品が交換され、芳醇なコーヒーが再び淹れられるようになりました。給湯室はすぐに明るい歓談の声で満たされました。彼女の迅速な対応に感銘を受けたCEOは、午後の会議でサラを称賛し、冗談めかして彼女を「飲料信頼性担当ディレクター」に昇進させました。",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌproʊdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「improve productivity（生産性を向上させる）」や「boost productivity」などのコロケーションで頻出します。"
+      },
+      {
+        "word": "urgency",
+        "phonetic": "/ˈɜːrdʒənsi/",
+        "partOfSpeech": "名詞",
+        "meaning": "緊急性、急迫",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「a matter of urgency（緊急を要する件）」や「urgency of the situation」としてビジネスメールでよく使われます。"
+      },
+      {
+        "word": "diagnose",
+        "phonetic": "/ˈdaɪəɡnoʊz/",
+        "partOfSpeech": "動詞",
+        "meaning": "（問題などの）原因を突き止める、診断する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "医療だけでなく、機械の故障原因やITシステムのトラブル分析（diagnose the issue）の文脈で出題されます。"
+      },
+      {
+        "word": "component",
+        "phonetic": "/kəmˈpoʊnənt/",
+        "partOfSpeech": "名詞",
+        "meaning": "部品、構成要素",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「replacement component（交換部品）」や「key component（重要な要素）」などのフレーズで機械やプロジェクトの文脈に登場します。"
+      }
+    ],
+    "quiz": {
+      "question": "What caused the espresso machine to stop working?",
+      "options": [
+        "A) A broken electrical cable",
+        "B) A blocked plastic valve",
+        "C) An expired service contract",
+        "D) A missing water tank"
+      ],
+      "answer": "B",
+      "explanation": "本文の「a tiny plastic valve was clogged with extra-fine coffee grounds（小さなプラスチック製のバルブが極細のコーヒー粉で詰まっていた）」という記述から、正解はB（詰まったプラスチックバルブ）です。"
+    },
+    "id": 14,
+    "day": 14
   }
 ]
