@@ -763,5 +763,60 @@
     },
     "id": 14,
     "day": 14
+  },
+  {
+    "title": "🍨 The AI That Demanded Ice Cream Breaks",
+    "genre": "Office Comedy",
+    "level": "TOEIC 600-700 Level",
+    "originalText": "Apex Corporation recently introduced a state-of-the-art AI assistant named \"Clara\" to boost workplace productivity. Clara was designed to schedule client meetings, manage emails, and optimize daily routines. However, employees soon noticed a hilarious glitch. Whenever someone typed furiously on their keyboard, Clara detected high stress levels and automatically rescheduled all upcoming appointments to insert mandatory 15-minute ice cream breaks. At first, management expressed concern regarding lost time. Yet, after two weeks, overall employee satisfaction soared, and project deadlines were actually met earlier than usual. Now, workers intentionally type faster just to enjoy extra treats, proving that unexpected software bugs can sometimes yield surprisingly positive results.",
+    "slashedText": "Apex Corporation recently introduced / a state-of-the-art AI assistant named \"Clara\" / to boost workplace productivity. / Clara was designed / to schedule client meetings, / manage emails, / and optimize daily routines. / However, employees soon noticed a hilarious glitch. / Whenever someone typed furiously on their keyboard, / Clara detected high stress levels / and automatically rescheduled all upcoming appointments / to insert mandatory 15-minute ice cream breaks. / At first, management expressed concern / regarding lost time. / Yet, after two weeks, / overall employee satisfaction soared, / and project deadlines were actually met / earlier than usual. / Now, workers intentionally type faster / just to enjoy extra treats, / proving that unexpected software bugs / can sometimes yield surprisingly positive results.",
+    "japaneseTranslation": "エイペックス社は最近、職場の生産性を向上させるために「クララ」という最先端のAIアシスタントを導入しました。クララは、クライアントとの会議のスケジュール設定、電子メールの管理、日々のルーティンの最適化を行うように設計されていました。しかし、従業員たちはすぐに爆笑ものの不具合に気づきました。誰かがキーボードを猛烈に叩くたびに、クララは高いストレスレベルを検知し、強制的な15分間のアイスクリーム休憩を挿入するために、今後の予定をすべて自動的に再調整したのです。最初、経営陣は失われた時間について懸念を示しました。しかし2週間後、全体の従業員満足度は急上昇し、プロジェクトの締め切りは実際には通常よりも早く達成されました。現在、従業員たちは特別なおやつを楽しむためだけに意図的に速くタイピングしており、予期せぬソフトウェアのバグが時には驚くほど良い結果をもたらすことがあると証明しています。",
+    "words": [
+      {
+        "word": "boost",
+        "phonetic": "/buːst/",
+        "partOfSpeech": "動詞",
+        "meaning": "高める、促進する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "\"boost productivity\" (生産性を高める) や \"boost sales\" (売上を伸ばす) は Part 5 や Part 7 で超頻出の定型表現です。"
+      },
+      {
+        "word": "mandatory",
+        "phonetic": "/ˈmændətɔːri/",
+        "partOfSpeech": "形容詞",
+        "meaning": "義務的な、強制の",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "\"mandatory training\" (必須研修) など、社内規定や法律・ルールの文脈で非常によく出題されます。"
+      },
+      {
+        "word": "concern",
+        "phonetic": "/kənˈsɜːrn/",
+        "partOfSpeech": "名詞",
+        "meaning": "懸念、心配",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "\"express concern regarding/about~\" で「〜に関する懸念を表明する」というフレーズでよく使われます。"
+      },
+      {
+        "word": "yield",
+        "phonetic": "/jiːld/",
+        "partOfSpeech": "動詞",
+        "meaning": "（結果・利益などを）もたらす、産出する",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "\"yield results\" (結果を生み出す) や \"yield profits\" (利益を生む) などのコロケーションでPart 7によく登場します。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did Clara automatically insert 15-minute breaks into the schedule?",
+      "options": [
+        "A) Because employees requested more dessert time.",
+        "B) Because management ordered mandatory relaxation periods.",
+        "C) Because it interpreted fast typing as a sign of high stress.",
+        "D) Because there were technical errors in client calendars."
+      ],
+      "answer": "C",
+      "explanation": "文章中に「誰かがキーボードを猛烈に叩くたびに、クララは高いストレスレベルを検知し、自動的に15分間のアイスクリーム休憩を挿入した (Whenever someone typed furiously... Clara detected high stress levels and automatically rescheduled...)」と書かれているため、正解は C（速いタイピングを高いストレスの兆候と解釈したため）となります。"
+    },
+    "id": 15,
+    "day": 15
   }
 ]
