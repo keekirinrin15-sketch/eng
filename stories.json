@@ -818,5 +818,60 @@
     },
     "id": 15,
     "day": 15
+  },
+  {
+    "title": "☕ The Smart Coffee Machine That Knows Your Schedule",
+    "genre": "Tech",
+    "level": "Intermediate (TOEIC 600-750)",
+    "originalText": "Apex Tech recently installed a state-of-the-art smart coffee machine in their main breakroom. Unlike standard appliances, this innovative machine analyzes employee calendar schedules to determine how much caffeine each person needs. If a manager has five consecutive meetings, the machine automatically dispenses an extra-strong espresso. However, when employees schedule brief, relaxing breaks, it offers mild tea instead. At first, staff members were hesitant to rely on an automated barista. Yet, productivity has significantly improved since its implementation. Company executives are now considering expanding this technology to all branch offices nationwide to boost overall workplace efficiency.",
+    "slashedText": "Apex Tech recently installed / a state-of-the-art smart coffee machine / in their main breakroom. / Unlike standard appliances, / this innovative machine / analyzes employee calendar schedules / to determine / how much caffeine each person needs. / If a manager has five consecutive meetings, / the machine automatically dispenses / an extra-strong espresso. / However, / when employees schedule brief, relaxing breaks, / it offers mild tea instead. / At first, / staff members were hesitant / to rely on an automated barista. / Yet, productivity has significantly improved / since its implementation. / Company executives are now considering / expanding this technology / to all branch offices nationwide / to boost overall workplace efficiency.",
+    "japaneseTranslation": "Apex Tech社は最近、メインの休憩室に最先端のスマートコーヒーマシンを設置しました。標準的な家電製品とは異なり、この革新的なマシンは従業員のカレンダースケジュールを分析し、各人にどのくらいのカフェインが必要かを判断します。マネージャーが5回連続で会議を控えている場合、マシンは自動的に極太のエスプレッソを抽出します。しかし、従業員が短くリラックスできる休憩を予定している場合は、代わりにマイルドなお茶を提供します。当初、スタッフは自動バリスタに頼ることに躊躇していました。しかし、導入以来、生産性は大幅に向上しました。会社の幹部は現在、職場の全体的な効率を高めるために、この技術を全国のすべての支社に展開することを検討しています。",
+    "words": [
+      {
+        "word": "appliance",
+        "phonetic": "/əˈplaɪ.əns/",
+        "partOfSpeech": "名詞",
+        "meaning": "電化製品、器具",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「home appliances（家電製品）」や「kitchen appliances（調理器具）」などの形で頻出します。"
+      },
+      {
+        "word": "consecutive",
+        "phonetic": "/kənˈsek.jə.tɪv/",
+        "partOfSpeech": "形容詞",
+        "meaning": "連続した、引き続く",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「for three consecutive years（3年連続で）」のように数字と一緒に使われる表現がビジネス文書で非常によく出題されます。"
+      },
+      {
+        "word": "hesitant",
+        "phonetic": "/ˈhez.ɪ.tənt/",
+        "partOfSpeech": "形容詞",
+        "meaning": "躊躇して、ためらって",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「be hesitant to do（〜するのをためらう）」の熟語フレーズで覚えるのが効果的です。"
+      },
+      {
+        "word": "implementation",
+        "phonetic": "/ˌɪm.plɪ.menˈteɪ.ʃən/",
+        "partOfSpeech": "名詞",
+        "meaning": "導入、実行、実施",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "動詞「implement（実行する、導入する）」の名詞形。新システムや政策の「導入」を表す文脈で頻出します。"
+      }
+    ],
+    "quiz": {
+      "question": "Why does the machine dispense an extra-strong espresso for a manager?",
+      "options": [
+        "A) The manager manually requested it.",
+        "B) The manager has five consecutive meetings.",
+        "C) The machine ran out of mild tea.",
+        "D) The manager is taking a relaxing break."
+      ],
+      "answer": "B",
+      "explanation": "本文の「If a manager has five consecutive meetings, the machine automatically dispenses an extra-strong espresso.」（マネージャーが5回連続で会議を控えている場合、マシンは自動的に極太のエスプレッソを抽出します）という記述から、正解はBとなります。"
+    },
+    "id": 16,
+    "day": 16
   }
 ]
