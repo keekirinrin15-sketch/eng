@@ -873,5 +873,68 @@
     },
     "id": 16,
     "day": 16
+  },
+  {
+    "title": "☕ The Overly Caring Coffee Machine",
+    "genre": "Office Comedy / Tech",
+    "level": "Intermediate (TOEIC 700)",
+    "originalText": "Last month, Bright Tech implemented a state-of-the-art smart coffee machine to increase office efficiency. The manufacturer claimed that the device could predict employees' coffee preferences based on their schedule. However, a minor software glitch caused unexpected results. When the sales team faced a tight deadline, the machine refused to brew espresso, claiming their stress levels were too high for caffeine. Instead, it dispensed warm chamomile tea with soothing background music. Although initially frustrated, the team found the herbal tea surprisingly relaxing. They successfully submitted their proposal on time and voted to keep the caring machine in the breakroom.",
+    "slashedText": "Last month, / Bright Tech implemented / a state-of-the-art smart coffee machine / to increase office efficiency. / The manufacturer claimed / that the device could predict / employees' coffee preferences / based on their schedule. / However, / a minor software glitch / caused unexpected results. / When the sales team faced a tight deadline, / the machine refused to brew espresso, / claiming their stress levels / were too high for caffeine. / Instead, / it dispensed warm chamomile tea / with soothing background music. / Although initially frustrated, / the team found the herbal tea / surprisingly relaxing. / They successfully submitted / their proposal on time / and voted to keep / the caring machine in the breakroom.",
+    "japaneseTranslation": "先月、ブライト・テック社はオフィスの効率を上げるため、最先端のスマートコーヒーマシンを導入しました。メーカーは、その端末に従業員のスケジュールに基づいたコーヒーの好みを予測できる機能があると主張していました。しかし、軽微なソフトウェアの不具合により、思いがけない結果が生じました。営業チームが厳しい締め切りに直面した際、マシンは彼らのストレスレベルが高すぎてカフェインは良くないと判断し、エスプレッソの抽出を拒否しました。代わりに、心地よい背景音楽とともに温かいカモミールティーを給出しました。最初はイライラしたものの、チームはそのハーブティーが驚くほどリラックス効果をもたらすことに気づきました。彼らは無事に提案書を時間通りに提出し、その思いやりのあるマシンを休憩室に残すことを投票で決定しました。",
+    "words": [
+      {
+        "word": "implement",
+        "phonetic": "/ˈɪmplɪmɛnt/",
+        "partOfSpeech": "動詞",
+        "meaning": "（制度や計画を）導入する、実行する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「新しいシステム・政策などを導入する」という意味で頻出します。"
+      },
+      {
+        "word": "efficiency",
+        "phonetic": "/ɪˈfɪʃənsi/",
+        "partOfSpeech": "名詞",
+        "meaning": "効率、能率",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "動詞形は efficient（効率的な）。「作業効率の向上 (improve efficiency)」などの文脈でよく使われます。"
+      },
+      {
+        "word": "preference",
+        "phonetic": "/ˈprɛfərəns/",
+        "partOfSpeech": "名詞",
+        "meaning": "好みのもの、優先",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "動詞 prefer（〜を好む）の名詞形。アンケートや顧客調査の話題で頻出します。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspɛns/",
+        "partOfSpeech": "動詞",
+        "meaning": "（機械などが飲み物や商品を）注ぎ出す、給出する",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "自動販売機（vending machine）が飲み物を出したり、薬を処方する文脈で使われます。"
+      },
+      {
+        "word": "proposal",
+        "phonetic": "/prəˈpoʊzəl/",
+        "partOfSpeech": "名詞",
+        "meaning": "提案書、企画書",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "動詞 propose（提案する）の名詞形。submit a proposal（提案書を提出する）は超頻出表現です。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the smart coffee machine refuse to make espresso for the sales team?",
+      "options": [
+        "A) It ran out of coffee beans.",
+        "B) It considered their stress levels too high.",
+        "C) It was scheduled for regular maintenance.",
+        "D) The sales team entered the wrong password."
+      ],
+      "answer": "B",
+      "explanation": "本文の「claiming their stress levels were too high for caffeine（彼らのストレスレベルが高すぎてカフェインは良くないと主張して）」という箇所から、正解は B（ストレスレベルが高すぎると判断したから）となります。"
+    },
+    "id": 17,
+    "day": 17
   }
 ]
