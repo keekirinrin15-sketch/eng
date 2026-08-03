@@ -936,5 +936,60 @@
     },
     "id": 17,
     "day": 17
+  },
+  {
+    "title": "☕ The Compliment-Hungry Coffee Machine",
+    "genre": "Office Comedy",
+    "level": "Intermediate (TOEIC 650)",
+    "originalText": "Brighton Corporation recently installed a state-of-the-art coffee machine in the break room to boost employee morale. The smart appliance uses voice recognition to customize beverages. However, a minor software glitch caused an unexpected problem yesterday. Instead of brewing coffee immediately, the machine demanded that users compliment its appearance before operating. Staff members were seen praising the stainless-steel device just to get their morning caffeine. The IT department promptly issued an apology and promised to update the system by noon. Meanwhile, employees admitted that the polite machine actually made their morning surprisingly pleasant.",
+    "slashedText": "Brighton Corporation recently installed / a state-of-the-art coffee machine / in the break room / to boost employee morale. / The smart appliance uses voice recognition / to customize beverages. / However, a minor software glitch / caused an unexpected problem yesterday. / Instead of brewing coffee immediately, / the machine demanded / that users compliment its appearance / before operating. / Staff members were seen praising / the stainless-steel device / just to get their morning caffeine. / The IT department promptly issued an apology / and promised to update the system / by noon. / Meanwhile, employees admitted / that the polite machine / actually made their morning surprisingly pleasant.",
+    "japaneseTranslation": "ブライトン社は最近、従業員の士気を高めるため、休憩室に最新式のコーヒーメーカーを設置しました。このスマート家電は音声認識を使用して飲み物をカスタマイズします。しかし昨日、軽微なソフトウェアの不具合により予期せぬ問題が発生しました。すぐにコーヒーを淹れる代わりに、マシンは作動する前にユーザーがその外観を褒めることを要求したのです。スタッフが朝のカフェインを得るために、ステンレス製の装置を褒めている姿が見られました。IT部門は即座に謝罪を出し、正午までにシステムを更新することを約束しました。一方、従業員たちは、その礼儀正しいマシンが実際には朝の時間を驚くほど快適にしてくれたと認めました。",
+    "words": [
+      {
+        "word": "morale",
+        "phonetic": "/məˈræl/",
+        "partOfSpeech": "名詞",
+        "meaning": "士気、意気込み",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「boost employee morale（従業員の士気を高める）」や「high morale（高い士気）」といった表現で頻出します。"
+      },
+      {
+        "word": "appliance",
+        "phonetic": "/əˈplaɪəns/",
+        "partOfSpeech": "名詞",
+        "meaning": "電化製品、器具",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「household appliances（家電製品）」や「office appliances（オフィス機器）」の形でPart 1写真問題やPart 7告知文によく登場します。"
+      },
+      {
+        "word": "glitch",
+        "phonetic": "/ɡlɪtʃ/",
+        "partOfSpeech": "名詞",
+        "meaning": "不具合、小さな障害",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「technical glitch（技術的トラブル）」や「software glitch（ソフトウェアの不具合）」の形で、ITトラブルや配送遅延の理由として出題されます。"
+      },
+      {
+        "word": "promptly",
+        "phonetic": "/ˈprɑːmptli/",
+        "partOfSpeech": "副詞",
+        "meaning": "即座に、迅速に、きっちり（時間通り）",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「respond promptly（即座に返答する）」や「arrive promptly at 9:00（9時ちょうどに到着する）」など、副詞問題で正解になりやすい語です。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did employees compliment the coffee machine?",
+      "options": [
+        "A) To test the new voice recognition system.",
+        "B) To get the machine to make coffee for them.",
+        "C) To enter a company contest hosted by IT.",
+        "D) To show appreciation for a workplace benefit."
+      ],
+      "answer": "B",
+      "explanation": "本文の「the machine demanded that users compliment its appearance before operating. Staff members were seen praising... just to get their morning caffeine.（作動前に褒めることを要求し、スタッフはカフェインを得るために褒めていた）」という記述から、コーヒーを淹れてもらうために褒めたことがわかります。したがって正解はBです。"
+    },
+    "id": 18,
+    "day": 18
   }
 ]
