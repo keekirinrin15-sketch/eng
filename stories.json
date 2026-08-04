@@ -991,5 +991,52 @@
     },
     "id": 18,
     "day": 18
+  },
+  {
+    "title": "The Overly Sensitive Coffee Machine ☕",
+    "genre": "Office Comedy",
+    "level": "Intermediate (TOEIC 650)",
+    "originalText": "Last Monday, Apex Solutions installed a state-of-the-art automated coffee machine in the breakroom. Designed to boost employee productivity, the device featured advanced voice-recognition technology. However, complications arose immediately. Whenever someone said \"urgent,\" the machine dispensed extra-strong espresso. During a heated strategy meeting nearby, marketing manager Sarah repeatedly shouted \"urgent project.\" By noon, the machine had brewed forty cups of high-caffeine espresso, flooding the counter. Management quickly issued a revised guideline: employees must whisper when discussing tight deadlines. Despite the initial mess, coffee consumption doubled, and ironically, the department completed its quarterly tasks three days ahead of schedule.",
+    "slashedText": "Last Monday, / Apex Solutions installed / a state-of-the-art automated coffee machine / in the breakroom. / Designed to boost employee productivity, / the device featured / advanced voice-recognition technology. / However, / complications arose immediately. / Whenever someone said \"urgent,\" / the machine dispensed / extra-strong espresso. / During a heated strategy meeting nearby, / marketing manager Sarah / repeatedly shouted \"urgent project.\" / By noon, / the machine had brewed / forty cups of high-caffeine espresso, / flooding the counter. / Management quickly issued / a revised guideline: / employees must whisper / when discussing tight deadlines. / Despite the initial mess, / coffee consumption doubled, / and ironically, / the department completed / its quarterly tasks / three days ahead of schedule.",
+    "japaneseTranslation": "先週の月曜日、エイペックス・ソリューションズ社は休憩室に最新式の全自動コーヒーメーカーを設置しました。従業員の生産性を向上させるために設計されたその機器には、高度な音声認識技術が搭載されていました。しかし、すぐに問題が発生しました。誰かが「緊急（urgent）」と言うたびに、マシンは極度に濃いエスプレッソを注ぎ出したのです。すぐ近くで行われていた白熱した戦略会議で、マーケティングマネージャーのサラが「緊急のプロジェクト」と何度も叫びました。正午までに、マシンは40杯もの高カフェインエスプレッソを淹れ、カウンターにあふれさせました。経営陣は急遽、改訂されたガイドラインを発行しました。社員は厳しい締め切りについて話すとき、ささやかねばならないというものです。最初の混乱にもかかわらず、コーヒーの消費量は倍増し、皮肉なことに、部署は四半期のタスクを予定より3日早く完了させました。",
+    "words": [
+      {
+        "word": "productivity",
+        "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "生産性",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「boost productivity（生産性を高める）」や「increase productivity」というコロケーションで頻出します。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspɛns/",
+        "partOfSpeech": "動詞",
+        "meaning": "（機械などがものを）注ぐ、分配する",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "自動販売機（vending machine）や給水器（water dispenser）など、機器が物を提供する文脈でよく使われます。"
+      },
+      {
+        "word": "quarterly",
+        "phonetic": "/ˈkwɔːtəli/",
+        "partOfSpeech": "形容詞 / 副詞",
+        "meaning": "年4回の、四半期ごとの",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ビジネスで非常に重要。「quarterly report（四半期報告書）」や「quarterly earnings（四半期決算）」は必修表現です。"
+      }
+    ],
+    "quiz": {
+      "question": "What caused the coffee machine to make so much espresso?",
+      "options": [
+        "A) Sarah manually pressed the start button forty times.",
+        "B) The word 'urgent' spoken in a meeting triggered the voice recognition.",
+        "C) A technical glitch caused the machine to run overnight.",
+        "D) Management ordered extra coffee for a late-night shift."
+      ],
+      "answer": "B",
+      "explanation": "本文に「Whenever someone said 'urgent,' the machine dispensed extra-strong espresso.」とあり、会議中にサラが「urgent」という言葉を繰り返し発言したことが音声認識機能を作動させたため、Bが正解です。"
+    },
+    "id": 19,
+    "day": 19
   }
 ]
