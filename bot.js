@@ -18,34 +18,71 @@ const WEB_APP_URL = process.env.WEB_APP_URL || 'http://localhost:8080';
 // Gemini AI で毎朝オリジナルのTOEICストーリーを自動生成する関数
 async function generateStoryWithAI() {
   console.log('[AI] Generating a new daily TOEIC story using Gemini AI...');
+
+  // 多様性を高めるためのトピックとフォーマットのランダムリスト
+  const genres = [
+    "Business & Office Drama / Comedy",
+    "Travel & Airport Incidents",
+    "Surprising Science & Nature Trivia",
+    "Customer Support & Unusual Complaints",
+    "Hotel, Restaurant & Food Culture",
+    "Tech Inventions & Quirky Gadgets",
+    "Environmental & Eco-friendly Initiatives",
+    "Historical Anecdotes & Hidden Mysteries",
+    "Remote Work & Freelance Life",
+    "World Cultures & Fascinating Traditions",
+    "Art, Music & Entertainment Industry",
+    "Sports, Health & Unusual Hobbies",
+    "Shopping, E-commerce & Logistics"
+  ];
+
+  const formats = [
+    "Short Narrative Story",
+    "Business Email or Internal Memo",
+    "News Article / Newspaper Column",
+    "Official Announcement or Public Notice",
+    "Customer Review / Product Testimonial",
+    "Blog Post or Travel Log"
+  ];
+
+  const randomGenre = genres[Math.floor(Math.random() * genres.length)];
+  const randomFormat = formats[Math.floor(Math.random() * formats.length)];
+
+  console.log(`[AI Target] Genre: ${randomGenre} | Format: ${randomFormat}`);
   
   const prompt = `You are a professional TOEIC test preparation expert and creative writer.
-Generate a fun, interesting short reading story (about 80-120 words) suitable for TOEIC 600-800 level learners.
-Topics can be trivia, fun science, interesting technology, or office comedy.
+Generate a highly engaging, unique reading passage suitable for TOEIC 600-800 level learners.
+
+CRITICAL INSTRUCTIONS FOR DIVERSITY:
+- Genre/Topic: ${randomGenre}
+- Format: ${randomFormat}
+- Word count: 80-120 words
+- Style: Ensure the vocabulary, sentence structure, and tone match the specified format (e.g., formal business tone for emails/announcements, engaging/lively tone for stories/blogs).
+- Avoid repetitive tropes or cliché scenarios. Be creative, distinct, and fresh!
 
 Respond strictly in valid JSON format with the following keys:
 {
-  "title": "Story Title with Emoji",
-  "genre": "Trivia / Business / Tech / Lifestyle",
-  "level": "Basic (TOEIC 600)",
-  "originalText": "The complete story text...",
-  "slashedText": "The story text split with slash marks / for chunk reading...",
-  "japaneseTranslation": "日本語訳...",
+  "title": "Title with Emoji (reflecting the topic)",
+  "genre": "${randomGenre} (${randomFormat})",
+  "level": "TOEIC 600-800",
+  "originalText": "The complete reading text...",
+  "slashedText": "The text split with slash marks / (single / for short clause breaks, double // for sentence/paragraph breaks) for chunk reading...",
+  "japaneseTranslation": "自然で読みやすい日本語訳...",
   "words": [
     {
       "word": "target_word_1",
       "phonetic": "/pronunciation/",
-      "partOfSpeech": "名詞/動詞/形容詞",
+      "partOfSpeech": "名詞/動詞/形容詞/副詞",
       "meaning": "日本語の意味",
-      "toeicLevel": "600点レベル",
-      "toeicNote": "TOEICでの出題パターンや用例解説"
+      "toeicLevel": "600点〜800点レベル",
+      "toeicNote": "TOEICでの具体的な出題文脈や関連フレーズ・注意点の解説"
     }
   ],
   "quiz": {
-    "question": "English comprehension question about the story?",
+    "question": "English comprehension question testing understanding of the passage?",
     "options": ["A) option1", "B) option2", "C) option3", "D) option4"],
     "answer": "A",
-    "explanation": "日本語での正解の解説"
+    "explanation": "日本語での詳細な正解理由の解説"
   }
 }`;
 
