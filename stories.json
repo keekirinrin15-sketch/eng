@@ -370,5 +370,60 @@
     },
     "id": 7,
     "day": 7
+  },
+  {
+    "title": "🌿 Official Notice: DeskSense Aromatherapy Unit Installation",
+    "genre": "Tech Inventions & Quirky Gadgets (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "Starting next Monday, November 12, the Facilities Department will begin installing the new DeskSense Personal Aromatherapy Units in all third-floor workstations. These innovative devices analyze typing rhythm and automatically emit customized scents to enhance focus and reduce workplace stress. Please note that each unit operates silently and uses hypoallergenic, organic essential oils. Employees may adjust their scent intensity preferences or opt out entirely via the employee portal by Friday, November 9. We anticipate that this trial will significantly improve overall workplace well-being. Should you have any questions or require technical assistance, please contact the IT Help Desk.",
+    "slashedText": "Starting next Monday, November 12, / the Facilities Department will begin installing / the new DeskSense Personal Aromatherapy Units / in all third-floor workstations. // These innovative devices analyze typing rhythm / and automatically emit customized scents / to enhance focus / and reduce workplace stress. // Please note / that each unit operates silently / and uses hypoallergenic, organic essential oils. // Employees may adjust / their scent intensity preferences / or opt out entirely / via the employee portal / by Friday, November 9. // We anticipate / that this trial will significantly improve / overall workplace well-being. // Should you have any questions / or require technical assistance, / please contact the IT Help Desk.",
+    "japaneseTranslation": "来週の月曜日、11月12日より、総務部（施設管理課）は第3階の全ワークステーションに新しい「DeskSense パーソナル・アロマセラピー・ユニット」の設置を開始します。これらの革新的な機器はタイピングのリズムを分析し、集中力を高め職場のストレスを軽減するために、カスタマイズされた香りを自動的に放出します。各ユニットは静音で動作し、アレルギーを引き起こしにくいオーガニックエッセンシャルオイルを使用している点にご留意ください。従業員は11月9日（金）までに、従業員ポータルを通じて香りの強さの好みを調整するか、利用を完全に辞退（オプトアウト）することができます。この試行導入により、職場全体の満足度や快適性が大幅に向上することを期待しております。ご質問がある場合や技術的なサポートが必要な場合は、ITヘルプデスクまでご連絡ください。",
+    "words": [
+      {
+        "word": "innovative",
+        "phonetic": "/ˈɪnəveɪtɪv/",
+        "partOfSpeech": "形容詞",
+        "meaning": "革新的な、斬新な",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "TOEICでは新製品や新技術、ビジネス戦略を修飾する語として頻出します。（例：innovative product design）"
+      },
+      {
+        "word": "opt out",
+        "phonetic": "/ɑːpt aʊt/",
+        "partOfSpeech": "動詞（句動詞）",
+        "meaning": "（参加や利用を）辞退する、身を引く",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "「opt out of ~」の形でよく使われ、制度やプログラム、メール配信などの配信停止・不参加手続きの文脈で出題されます。"
+      },
+      {
+        "word": "anticipate",
+        "phonetic": "/ænˈtɪsɪpeɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "予想する、期待する、楽しみに待つ",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「anticipate + 名詞/that節」の形で、業績の予測やイベントの成果を期待するビジネス文脈でよく登場します。"
+      },
+      {
+        "word": "assistance",
+        "phonetic": "/əˈsɪstəns/",
+        "partOfSpeech": "名詞",
+        "meaning": "援助、支援、サポート",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「require assistance（支援を必要とする）」「technical assistance（技術サポート）」などの定型表現でよく使われます。"
+      }
+    ],
+    "quiz": {
+      "question": "What should employees do if they do not wish to participate in the aromatherapy trial?",
+      "options": [
+        "A) Contact the IT Help Desk before November 12.",
+        "B) Indicate their choice on the employee portal by November 9.",
+        "C) Submit a written request to the Facilities Department.",
+        "D) Turn off the device manually on Monday morning."
+      ],
+      "answer": "B",
+      "explanation": "本文の「Employees may adjust their scent intensity preferences or opt out entirely via the employee portal by Friday, November 9.（従業員は11月9日金曜日までに従業員ポータルを通じて…辞退することができます）」という記述から、参加を希望しない場合は11月9日までに社内ポータルサイトで手続きを行う必要があります。したがってBが正解です。"
+    },
+    "id": 8,
+    "day": 8
   }
 ]
