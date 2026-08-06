@@ -425,5 +425,60 @@
     },
     "id": 8,
     "day": 8
+  },
+  {
+    "title": "🎵 Urgent Update: Sunset Pavilion Acoustic Showcase Schedule Change",
+    "genre": "Art, Music & Entertainment Industry (Business Email or Internal Memo)",
+    "level": "TOEIC 600-800",
+    "originalText": "Subject: Urgent Update: Logistics for the Sunset Pavilion Acoustic Showcase\n\nTo all event coordinators,\n\nPlease be advised that the acoustic setup for tomorrow’s showcase at the Sunset Pavilion has been slightly modified. Due to unexpected sound interference from the adjacent gallery room, sound checks will now begin promptly at 2:00 PM instead of 3:30 PM.\n\nAll technical staff must arrive by 1:30 PM to oversee speaker placement and test audio levels. Furthermore, performers are requested to submit their final setlists to the stage manager upon arrival. Your prompt cooperation is crucial to ensuring a seamless production for our patrons.\n\nThank you for your dedication.\n\nBest regards,\nElena Vance\nEvent Director",
+    "slashedText": "Subject: Urgent Update: / Logistics for the Sunset Pavilion Acoustic Showcase // To all event coordinators, // Please be advised / that the acoustic setup / for tomorrow’s showcase at the Sunset Pavilion / has been slightly modified. // Due to unexpected sound interference / from the adjacent gallery room, / sound checks will now begin promptly / at 2:00 PM instead of 3:30 PM. // All technical staff must arrive by 1:30 PM / to oversee speaker placement / and test audio levels. // Furthermore, performers are requested / to submit their final setlists / to the stage manager upon arrival. // Your prompt cooperation is crucial / to ensuring a seamless production for our patrons. // Thank you for your dedication. // Best regards, / Elena Vance / Event Director",
+    "japaneseTranslation": "件名：緊急更新：サンセット・パビリオン・アコースティック・ショーケースの運用手配について\n\nイベントコーディネーターの皆様へ\n\n明日のサンセット・パビリオンでのショーケースに向けた音響準備が若干変更されましたのでお知らせいたします。隣接するギャラリールームからの予期せぬ音声干渉のため、サウンドチェックは午後3時30分ではなく、午後2時ちょうどに開始されます。\n\n全技術スタッフはスピーカーの配置を監督し音響レベルをテストするため、午後1時30分までに到着してください。さらに、出演者は到着時にステージマネージャーへ最終セットリストを提出するよう求められています。ご来場者の皆様に円滑な公演を提供するため、迅速なご協力をお願いいたします。\n\n皆様のご尽力に感謝いたします。\n\n敬具\nエレナ・ヴァンス\nイベントディレクター",
+    "words": [
+      {
+        "word": "promptly",
+        "phonetic": "/ˈprɑːmpt.li/",
+        "partOfSpeech": "副詞",
+        "meaning": "きっかりに、迅速に",
+        "toeicLevel": "TOEIC 600点〜レベル",
+        "toeicNote": "「promptly at + 時間」の形で「〜時きっかりに」という意味でパート5・6・7で頻出します。"
+      },
+      {
+        "word": "oversee",
+        "phonetic": "/ˌoʊ.vɚˈsiː/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を監督する、統括する",
+        "toeicLevel": "TOEIC 700点〜レベル",
+        "toeicNote": "superviseと同義。業務、プロジェクト、スタッフを管理・監督する場面でよく使われます。"
+      },
+      {
+        "word": "crucial",
+        "phonetic": "/ˈkruː.ʃəl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "極めて重要な、不可欠な",
+        "toeicLevel": "TOEIC 700点〜レベル",
+        "toeicNote": "「It is crucial to do...」や「is crucial for...」の形で、ビジネス上の重要事項を伝える際に多用されます。"
+      },
+      {
+        "word": "patron",
+        "phonetic": "/ˈpeɪ.trən/",
+        "partOfSpeech": "名詞",
+        "meaning": "（劇場・美術館などの）利用客、顧客、支援者",
+        "toeicLevel": "TOEIC 750点〜レベル",
+        "toeicNote": "一般的な「customer」に対して、芸術施設・イベント・ホテルなどの顧客や常連客を指すフォーマルな語です。"
+      }
+    ],
+    "quiz": {
+      "question": "Why has the sound check schedule been moved earlier?",
+      "options": [
+        "A) Performers requested additional rehearsal time.",
+        "B) Technical equipment arrived earlier than scheduled.",
+        "C) Unexpected audio interference occurred from a nearby room.",
+        "D) The venue manager asked to change the event start time."
+      ],
+      "answer": "C",
+      "explanation": "本文第1段落の「Due to unexpected sound interference from the adjacent gallery room, sound checks will now begin promptly at 2:00 PM instead of 3:30 PM.」（隣接するギャラリールームからの予期せぬ音声干渉のため、サウンドチェックは...午後2時ちょうどに開始されます）という記述から、隣室からの音響干渉が原因で前倒しされたことがわかります。したがって正解はCです。"
+    },
+    "id": 9,
+    "day": 9
   }
 ]
