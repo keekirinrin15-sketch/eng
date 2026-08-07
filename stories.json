@@ -535,5 +535,68 @@
     },
     "id": 10,
     "day": 10
+  },
+  {
+    "title": "🌿 Dining Beyond the Plate: Copenhagen’s Zero-Waste Culinary Experience",
+    "genre": "Hotel, Restaurant & Food Culture (Blog Post or Travel Log)",
+    "level": "TOEIC 600-800",
+    "originalText": "During my recent stay at Villa Green in Copenhagen, I experienced an extraordinary culinary workshop that redefines sustainable hospitality. Chef Lars Jensen hosted an intimate dinner where every single ingredient was utilized to its fullest potential. From potato peel crisps to fermented vegetable broths, nothing went to waste. Interestingly, the menu changes daily based on surplus produce sourced directly from nearby organic farms. Chef Jensen explained that minimizing waste does not mean compromising on flavor or sophistication. This memorable evening demonstrated how the restaurant industry can significantly reduce its environmental footprint while still providing guests with an exceptional dining experience.",
+    "slashedText": "During my recent stay / at Villa Green in Copenhagen, // I experienced / an extraordinary culinary workshop / that redefines sustainable hospitality. // Chef Lars Jensen hosted / an intimate dinner / where every single ingredient / was utilized to its fullest potential. // From potato peel crisps / to fermented vegetable broths, // nothing went to waste. // Interestingly, / the menu changes daily / based on surplus produce / sourced directly / from nearby organic farms. // Chef Jensen explained / that minimizing waste / does not mean compromising on flavor / or sophistication. // This memorable evening demonstrated / how the restaurant industry / can significantly reduce / its environmental footprint / while still providing guests / with an exceptional dining experience. //",
+    "japaneseTranslation": "コペンハーゲンのヴィラ・グリーンに最近滞在した際、私は持続可能なホスピタリティを再定義する素晴らしい料理ワークショップを体験しました。シェフのラース・イェンセンは、すべての食材が最大限に活用されるこぢんまりとした夕食会を催しました。ジャガイモの皮のチップスから発酵野菜のスープに至るまで、何一つ無駄にされませんでした。興味深いことに、メニューは近隣の有機農場から直接調達した余剰農産物に基づいて毎日変わります。イェンセンシェフは、廃棄物を最小限に抑えることは、風味や洗練さを妥協することを意味しないと説明しました。この記憶に残る夜は、外食産業が利用客に格別な食事体験を提供しつつ、環境への負荷を大幅に削減できることを証明してくれました。",
+    "words": [
+      {
+        "word": "culinary",
+        "phonetic": "/ˈkʌl.ə.ner.i/",
+        "partOfSpeech": "形容詞",
+        "meaning": "料理の、厨房の",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは「culinary arts（料理芸術・料理技術）」や「culinary team（調理チーム）」などのフレーズでよく出題されます。"
+      },
+      {
+        "word": "hospitality",
+        "phonetic": "/ˌhɑː.spəˈtæl.ə.t̬i/",
+        "partOfSpeech": "名詞",
+        "meaning": "接客、おもてなし、ホテル・外食産業",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "ホテル業や飲食業全般を指す「hospitality industry」という表現はパート7の常連フレーズです。"
+      },
+      {
+        "word": "surplus",
+        "phonetic": "/ˈsɝː.pləs/",
+        "partOfSpeech": "形容詞 / 名詞",
+        "meaning": "余剰の、売れ残りの / 余剰、過剰",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「surplus inventory（余剰在庫）」や「surplus produce（余剰農産物）」のように、ビジネスや在庫管理の文脈で頻出します。"
+      },
+      {
+        "word": "produce",
+        "phonetic": "/ˈproʊ.duːs/",
+        "partOfSpeech": "名詞",
+        "meaning": "農産物、野菜・果物類",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "動詞「produce（〜を生産する）」とアクセントが異なります（名詞は第一シラブル）。「fresh produce（新鮮な農産物）」はスーパーマーケットやレストラン関連の文書で頻出します。"
+      },
+      {
+        "word": "compromise",
+        "phonetic": "/ˈkɑːm.prə.maɪz/",
+        "partOfSpeech": "動詞 / 名詞",
+        "meaning": "（品質・原則などを）妥協する、損なう / 妥協",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "「compromise quality（品質を妥協する）」や「reach a compromise（妥協に達する）」という形で交渉や品質管理の文脈に使われます。"
+      }
+    ],
+    "quiz": {
+      "question": "According to the blog post, what determines the menu at the restaurant?",
+      "options": [
+        "A) Chef Jensen's personal preference for classic recipes",
+        "B) Surplus items obtained from local organic farms",
+        "C) Specific meal requests submitted by hotel guests in advance",
+        "D) The weekly dietary guidelines set by the city of Copenhagen"
+      ],
+      "answer": "B",
+      "explanation": "本文の第4文「the menu changes daily based on surplus produce sourced directly from nearby organic farms（メニューは近隣の有機農場から直接調達した余剰農産物に基づいて毎日変わる）」より、正解はB（地元の有機農場から手に入れた余剰品）です。"
+    },
+    "id": 11,
+    "day": 11
   }
 ]
