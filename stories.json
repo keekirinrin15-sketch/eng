@@ -480,5 +480,60 @@
     },
     "id": 9,
     "day": 9
+  },
+  {
+    "title": "🎵 The Village of Melodic Names",
+    "genre": "World Cultures & Fascinating Traditions (Short Narrative Story)",
+    "level": "TOEIC 600-800",
+    "originalText": "Elena arrived in Kongthong, a remote village nestled in northeastern India, eager to witness a truly unique musical tradition. Here, residents do not address each other by conventional names. Instead, every newborn receives a unique tune composed by their mother, known as a Jingrwai Iawbei. Standing on a misty hillside, Elena watched a farmer call his neighbor using a melodic whistle echoing through the valley. The neighbor promptly whistled a cheerful response. Elena realized this custom was not merely an acoustic substitute for names; it fostered a profound sense of unity among villagers. Deeply moved, she recorded the vibrant soundscape, cherishing this extraordinary harmony.",
+    "slashedText": "Elena arrived in Kongthong, / a remote village / nestled in northeastern India, / eager to witness / a truly unique musical tradition. // Here, / residents do not address each other / by conventional names. // Instead, / every newborn receives a unique tune / composed by their mother, / known as a Jingrwai Iawbei. // Standing on a misty hillside, / Elena watched a farmer call his neighbor / using a melodic whistle / echoing through the valley. // The neighbor promptly whistled / a cheerful response. // Elena realized this custom / was not merely an acoustic substitute for names; / it fostered a profound sense of unity / among villagers. // Deeply moved, / she recorded the vibrant soundscape, / cherishing this extraordinary harmony.",
+    "japaneseTranslation": "エレナは、真にユニークな音楽の伝統を目撃しようと意気込み、インド北東部に位置する人里離れた村、コングトンに到着しました。ここでは、住民はお互いを従来の名前で呼び合いません。代わりに、すべての新生児は「ジングルワイ・イアウベイ」として知られる、母親によって作曲された独自の旋律を受け取ります。霧の立ち込める丘の斜面に立ち、エレナは農夫が谷間に響き渡るメロディアスな口笛を使って隣人を呼ぶのを見ました。隣人はすぐに陽気な応答の口笛を吹き返しました。エレナは、この風習が単なる名前の音響的な代用品ではなく、村民の間に深い連帯感を育んでいることに気づきました。深く感銘を受けた彼女は、この活気あふれる音の風景を録音し、この特別な調和を大切に記憶と記録に収めました。",
+    "words": [
+      {
+        "word": "conventional",
+        "phonetic": "/kənˈven.ʃən.əl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "従来の、型通りの",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "ビジネスで「従来のやり方（conventional method/approach）」などの文脈で頻出します。"
+      },
+      {
+        "word": "promptly",
+        "phonetic": "/ˈprɑːmpt.li/",
+        "partOfSpeech": "副詞",
+        "meaning": "即座に、迅速に",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "メールの返信や問題への対応（respond promptly, arrive promptly）などの表現でよく登場します。"
+      },
+      {
+        "word": "substitute",
+        "phonetic": "/ˈsʌb.stə.tuːt/",
+        "partOfSpeech": "名詞",
+        "meaning": "代用品、代理人",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「substitute for A（Aの代用品/代理）」という前置詞forとのコロケーションが重要です。"
+      },
+      {
+        "word": "foster",
+        "phonetic": "/ˈfɑː.stɚ/",
+        "partOfSpeech": "動詞",
+        "meaning": "（関係・感情などを）育む、促進する",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "組織内の協力関係やイノベーションを育む（foster teamwork / foster innovation）などの文脈で用いられます。"
+      }
+    ],
+    "quiz": {
+      "question": "What is unique about the communication tradition in Kongthong?",
+      "options": [
+        "A) Residents communicate using musical whistles composed for individuals.",
+        "B) Villagers are required to change their names after reaching adulthood.",
+        "C) People perform daily musical concerts on misty hillsides.",
+        "D) Farmers use loud echoes to scare away animals in the valley."
+      ],
+      "answer": "A",
+      "explanation": "本文中で「every newborn receives a unique tune composed by their mother... call his neighbor using a melodic whistle」とあるように、コングトン村では生まれた時に作られた独自のメロディ（口笛）を使って個人を呼び合いコミュニケーションを取っているため、正解は A です。"
+    },
+    "id": 10,
+    "day": 10
   }
 ]
