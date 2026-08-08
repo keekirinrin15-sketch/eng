@@ -598,5 +598,68 @@
     },
     "id": 11,
     "day": 11
+  },
+  {
+    "title": "☕ Pilot Launch of AeroSip Smart Coasters in Communal Lounges",
+    "genre": "Tech Inventions & Quirky Gadgets (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "Attention MetroTower Tenants,\n\nWe are pleased to announce the trial installation of AeroSip smart coasters in all third-floor communal lounges starting next Monday. Developed by ThermalTech Innovations, these compact devices automatically adjust the temperature of hot beverages placed upon them, preventing accidental scalds and maintaining optimal heat for up to two hours. Tenants are encouraged to participate in this pilot program by testing the units and submitting feedback via the QR code located beside each station. Please note that these gadgets require compatible ceramic or metallic mugs to operate effectively. Your cooperation in keeping the lounge area clean after use is greatly appreciated.",
+    "slashedText": "Attention MetroTower Tenants, // We are pleased to announce / the trial installation of AeroSip smart coasters / in all third-floor communal lounges / starting next Monday. // Developed by ThermalTech Innovations, / these compact devices / automatically adjust the temperature / of hot beverages placed upon them, / preventing accidental scalds / and maintaining optimal heat / for up to two hours. // Tenants are encouraged / to participate in this pilot program / by testing the units / and submitting feedback / via the QR code located beside each station. // Please note that / these gadgets require compatible ceramic or metallic mugs / to operate effectively. // Your cooperation in keeping the lounge area clean / after use / is greatly appreciated.",
+    "japaneseTranslation": "メトロタワーのテナントの皆様へ\n\n来週の月曜日より、3階のすべての共用ラウンジにて「AeroSip」スマートコースターの試験設置を開始することをお知らせいたします。ThermalTech Innovations社によって開発されたこれらの小型機器は、上に置かれた温かい飲み物の温度を自動で調整し、不意のやけどを防ぎつつ、最大2時間最適な温かさを維持します。テナントの皆様には、各ステーションの横にあるQRコードからユニットを試用し、フィードバックを送信することで、このパイロットプログラムにご参加いただくようお願いいたします。これらのガジェットが効果的に作動するには、互換性のあるセラミック製または金属製のマグカップが必要となりますのでご注意ください。使用後にラウンジエリアを清潔に保つことへの皆様のご協力に感謝申し上げます。",
+    "words": [
+      {
+        "word": "installation",
+        "phonetic": "/ˌɪnstəˈleɪʃn/",
+        "partOfSpeech": "名詞",
+        "meaning": "設置、取り付け",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "オフィス機器やソフトウェアの「導入・設置」という意味で頻出します。動詞形は install です。"
+      },
+      {
+        "word": "communal",
+        "phonetic": "/kəˈmjuːnl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "共用の、共同の",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "オフィスビル内の「共用スペース（communal area/lounge）」などの文脈でよく使われます。"
+      },
+      {
+        "word": "pilot",
+        "phonetic": "/ˈpaɪlət/",
+        "partOfSpeech": "形容詞",
+        "meaning": "試験的な、パイロット版の",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「pilot program（試験的プログラム）」「pilot project（実証実験）」といった複合語でよく出題されます。"
+      },
+      {
+        "word": "compatible",
+        "phonetic": "/kəmˈpætəbl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "互換性がある、適合する",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "ITやガジェット関連で「〜と互換性がある（be compatible with...）」の形で頻繁に用いられます。"
+      },
+      {
+        "word": "cooperation",
+        "phonetic": "/kəʊˌɒpəˈreɪʃn/",
+        "partOfSpeech": "名詞",
+        "meaning": "協力、協同",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "お知らせや案内文の結びで「Your cooperation is appreciated（ご協力をお願いいたします）」という定型表現として必須です。"
+      }
+    ],
+    "quiz": {
+      "question": "What is required to use the AeroSip smart coasters properly?",
+      "options": [
+        "A) Registering via a smartphone application",
+        "B) Using specific types of beverage containers",
+        "C) Reserving a lounge table in advance",
+        "D) Purchasing a dedicated thermal mug"
+      ],
+      "answer": "B",
+      "explanation": "本文の後半に「these gadgets require compatible ceramic or metallic mugs to operate effectively（これらのガジェットが効果的に作動するには、互換性のあるセラミック製または金属製のマグカップが必要となります）」と明記されています。したがって、「特定の種類の飲み物容器（陶器製または金属製のマグ）を使用すること」を指す B が正解です。"
+    },
+    "id": 12,
+    "day": 12
   }
 ]
