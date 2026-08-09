@@ -661,5 +661,60 @@
     },
     "id": 12,
     "day": 12
+  },
+  {
+    "title": "🎷 The Great Suitcase Swap in Vienna!",
+    "genre": "Travel & Airport Incidents (Blog Post or Travel Log)",
+    "level": "TOEIC 600-800",
+    "originalText": "Yesterday, I sprinted through Vienna Airport to catch my connection to Tokyo. In my rush at security, I mistakenly grabbed an identical navy blue bag from the conveyor belt. I didn't realize the blunder until I reached my hotel and unlocked it—only to find a trumpet and sheet music instead of my clothes! Fortunately, the owner had placed a business card inside. We met this morning at a local café to exchange our luggage. It turns out he is a professional jazz musician, and he even invited me to his concert tonight!",
+    "slashedText": "Yesterday, / I sprinted through Vienna Airport / to catch my connection to Tokyo. // In my rush at security, / I mistakenly grabbed an identical navy blue bag / from the conveyor belt. // I didn't realize the blunder / until I reached my hotel and unlocked it— / only to find a trumpet and sheet music / instead of my clothes! // Fortunately, / the owner had placed a business card inside. // We met this morning at a local café / to exchange our luggage. // It turns out / he is a professional jazz musician, / and he even invited me / to his concert tonight!",
+    "japaneseTranslation": "昨日、東京行きの乗り継ぎ便に間に合わせるため、ウィーン空港を猛ダッシュしました。保安検査場での焦りから、ベルトコンベアにあった全く同じ紺色のバッグを誤って取ってしまいました。ホテルに着いて解錠し、服の代わりにトランペットと楽譜が入っているのを見るまで、そのヘマに気づきませんでした！幸いなことに、持ち主が中に名刺を入れてくれていました。今朝、地元のカフェで会って手荷物を交換しました。なんと彼はプロのジャズミュージシャンで、今夜のコンサートに私を招待までしてくれたのです！",
+    "words": [
+      {
+        "word": "connection",
+        "phonetic": "/kəˈnɛk.ʃən/",
+        "partOfSpeech": "名詞",
+        "meaning": "乗り継ぎ便、接続",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "空港や交通関連の文脈で「乗り継ぎ（便）」の意味で頻出します（例: make a connection「乗り継ぐ」）。"
+      },
+      {
+        "word": "identical",
+        "phonetic": "/aɪˈdɛn.tɪ.kəl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "全く同じの、同一の",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは商品の仕様変更やデザインの比較などで「identical to ~（〜と全く同じ）」の形でよく使われます。"
+      },
+      {
+        "word": "blunder",
+        "phonetic": "/ˈblʌn.dər/",
+        "partOfSpeech": "名詞",
+        "meaning": "大失敗、うっかりしたミス",
+        "toeicLevel": "800点レベル",
+        "toeicNote": "不注意や焦りによる大きな間違いを表します。Part 7などの物語・トラブル文脈で登場します。"
+      },
+      {
+        "word": "exchange",
+        "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を交換する",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "商品の「返品・交換（exchange an item）」や名刺交換、通貨の両替（currency exchange）などで超頻出です。"
+      }
+    ],
+    "quiz": {
+      "question": "Why did the writer accidentally take the wrong bag at the airport?",
+      "options": [
+        "A) The security officer handed over the wrong item.",
+        "B) The writer was hurrying to catch a connecting flight.",
+        "C) The luggage tags were accidentally swapped.",
+        "D) The hotel delivered someone else's bag by mistake."
+      ],
+      "answer": "B",
+      "explanation": "本文の最初の2文「sprinted through Vienna Airport to catch my connection... In my rush at security, I mistakenly grabbed...」より、著者は乗り継ぎ便に間に合わせようと焦っていたために誤ってバッグを取ってしまったことがわかります。したがってBが正解です。"
+    },
+    "id": 13,
+    "day": 13
   }
 ]
