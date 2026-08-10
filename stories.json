@@ -716,5 +716,68 @@
     },
     "id": 13,
     "day": 13
+  },
+  {
+    "title": "🍄 Special Public Notice: Rare Bioluminescent Mushroom Bloom",
+    "genre": "Surprising Science & Nature Trivia (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "The City Parks Department is pleased to announce special evening visiting hours for Oakridge Reserve, effective October 12 through October 26. Recent environmental conditions have caused a rare bloom of bioluminescent ghost mushrooms. These unique fungi emit a subtle green glow in total darkness due to a natural chemical reaction. To ensure visitor safety and preserve this delicate ecosystem, night access will be restricted to guided tours only. Visitors are strictly prohibited from stepping off designated pathways or utilizing flash photography. Advance registration is required online. Please contact the Parks Office for additional inquiries.",
+    "slashedText": "The City Parks Department / is pleased to announce / special evening visiting hours / for Oakridge Reserve, / effective October 12 / through October 26. // Recent environmental conditions / have caused a rare bloom / of bioluminescent ghost mushrooms. // These unique fungi / emit a subtle green glow / in total darkness / due to a natural chemical reaction. // To ensure visitor safety / and preserve this delicate ecosystem, / night access will be restricted / to guided tours only. // Visitors are strictly prohibited / from stepping off designated pathways / or utilizing flash photography. // Advance registration is required online. // Please contact the Parks Office / for additional inquiries.",
+    "japaneseTranslation": "市立公園課は、10月12日から10月26日まで、オークリッジ保護区の特別夜間見学時間を設けることをお知らせいたします。最近の環境条件により、発光性の「ゴースト・マッシュルーム」と呼ばれる希少なキノコが大量発生しています。これらのユニークな菌類は、自然の化学反応によって完全な暗闇の中でかすかな緑色の光を放ちます。来園者の安全確保と繊細な生態系の保護のため、夜間の立ち入りはガイド付きツアーのみに制限されます。来園者が指定された遊歩道を外れることや、フラッシュ撮影を行うことは厳しく禁止されています。事前にオンラインでの登録が必要です。ご不明な点は公園課までお問い合わせください。",
+    "words": [
+      {
+        "word": "effective",
+        "phonetic": "/ɪˈfek.tɪv/",
+        "partOfSpeech": "形容詞",
+        "meaning": "（法律・規則などが）発効して、〜日付で適用される",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "TOEICでは「effective + 日付」（〜月〜日より実施/適用）という表現で、お知らせや通知の冒頭によく出題されます。"
+      },
+      {
+        "word": "emit",
+        "phonetic": "/iˈmɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "（光・熱・気体・音などを）発する、放出する",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "環境問題や技術関連の文書で「CO2を排出する(emit carbon dioxide)」や「光を放つ」という意味でよく使われます。"
+      },
+      {
+        "word": "preserve",
+        "phonetic": "/prɪˈzɜːv/",
+        "partOfSpeech": "動詞",
+        "meaning": "保存する、保護する、維持する",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「preserve the ecosystem（生態系を保護する）」や「preserve historic buildings（歴史的建造物を保存する）」といった文脈で頻出します。"
+      },
+      {
+        "word": "prohibit",
+        "phonetic": "/prəˈhɪb.ɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "（法律や規則で）禁止する",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "受動態「be prohibited from -ing」（〜することが禁止されている）の形で、公的な案内や注意書きに多用されます。"
+      },
+      {
+        "word": "inquiry",
+        "phonetic": "/ɪnˈkwaɪə.ri/",
+        "partOfSpeech": "名詞",
+        "meaning": "問い合わせ、質問",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "ビジネスメールや告知の結びで「for additional inquiries（追加のご質問・お問い合わせは）」として頻出する重要単語です。"
+      }
+    ],
+    "quiz": {
+      "question": "According to the notice, what must visitors do to view the ghost mushrooms at night?",
+      "options": [
+        "A) Bring flashlights to navigate the unlit pathways",
+        "B) Sign up online in advance for a guided tour",
+        "C) Submit a scientific research proposal to the Parks Office",
+        "D) Pay an admission fee upon arrival at the park gate"
+      ],
+      "answer": "B",
+      "explanation": "本文の中に「night access will be restricted to guided tours only（夜間の立ち入りはガイド付きツアーのみに制限されます）」および「Advance registration is required online（事前にオンラインでの登録が必要です）」と記載されているため、正解は B（事前にオンラインでガイド付きツアーに申し込む）です。"
+    },
+    "id": 14,
+    "day": 14
   }
 ]
