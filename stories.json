@@ -779,5 +779,60 @@
     },
     "id": 14,
     "day": 14
+  },
+  {
+    "title": "💻 Policy Update: Remote Work Expense Reimbursement",
+    "genre": "Remote Work & Freelance Life (Business Email or Internal Memo)",
+    "level": "TOEIC 600-800",
+    "originalText": "Subject: Updated Policy on Remote Work Subsidies\n\nDear Team,\n\nTo better support our distributed workforce, Apex Solutions is pleased to introduce an expanded Remote Work Allowance effective November 1. Full-time remote employees may now claim up to $200 monthly for co-working space passes or high-speed internet upgrades. Additionally, a one-time ergonomic furniture stipend of $500 is available for new hires.\n\nTo request reimbursement, please submit itemized receipts through the employee portal by the end of each calendar month. Late submissions will be processed in the following pay cycle.\n\nIf you have questions regarding eligible expenses, please contact human resources.\n\nBest regards,\nHR Operations",
+    "slashedText": "Subject: Updated Policy on Remote Work Subsidies // Dear Team, // To better support our distributed workforce, / Apex Solutions is pleased / to introduce an expanded Remote Work Allowance / effective November 1. // Full-time remote employees / may now claim up to $200 monthly / for co-working space passes / or high-speed internet upgrades. // Additionally, / a one-time ergonomic furniture stipend of $500 / is available for new hires. // To request reimbursement, / please submit itemized receipts / through the employee portal / by the end of each calendar month. // Late submissions / will be processed in the following pay cycle. // If you have questions regarding eligible expenses, / please contact human resources. // Best regards, / HR Operations",
+    "japaneseTranslation": "件名：在宅勤務手当に関する改定方針のお知らせ\n\nチームの皆様へ\n\n分散型労働力をより効果的に支援するため、エイペックス・ソリューションズは11月1日付で拡充された「在宅勤務手当」を導入することいたしました。フルタイムの在宅勤務社員は、コワーキングスペース利用パスや高速インターネットのアップグレード費用として、月額最大200ドルまで請求できるようになります。さらに、新規採用者を対象に、人間工学に基づいた家具の購入費用として一律500ドルの支給金が提供されます。\n\n払い戻しを申請するには、各月末までに社内ポータル経由で項目別の領収書を提出してください。期限を過ぎた申請は翌月の給与サイクルで処理されます。\n\n対象となる経費についてご質問がある場合は、人事部までお問い合わせください。\n\nよろしくお願いいたします。\n人事オペレーション部",
+    "words": [
+      {
+        "word": "subsidy",
+        "phonetic": "/ˈsʌbsədi/",
+        "partOfSpeech": "名詞",
+        "meaning": "補助金、手当",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは「政府の補助金」だけでなく、企業が社内に提供する「住宅手当・通勤手当（housing/travel subsidy）」の文脈でも頻出します。"
+      },
+      {
+        "word": "reimbursement",
+        "phonetic": "/ˌriːɪmˈbɜːrsmənt/",
+        "partOfSpeech": "名詞",
+        "meaning": "払い戻し、経費精算",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "出張旅費や経費購入の払い戻し申請（reimbursement request / claim）のトピックで必須となる超頻出語です。"
+      },
+      {
+        "word": "itemized",
+        "phonetic": "/ˈaɪtəmaɪzd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "項目別に分けた、内訳が明記された",
+        "toeicLevel": "730点レベル",
+        "toeicNote": "itemized receipt（内訳明細付き領収書）や itemized bill（明細書）という表現で Part 7 に頻出します。"
+      },
+      {
+        "word": "eligible",
+        "phonetic": "/ˈelɪdʒəbl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "（手当や資格などの）対象となる、資格がある",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "be eligible for + 名詞 / be eligible to + 動詞原形 の形で、「〜の資格がある、対象である」という意味で頻出します。"
+      }
+    ],
+    "quiz": {
+      "question": "What are employees required to do to receive reimbursement for remote work expenses?",
+      "options": [
+        "A) Submit itemized receipts through the employee portal by month-end.",
+        "B) Get prior written approval from Human Resources.",
+        "C) Upgrade their home internet speed to the highest package.",
+        "D) Work from a co-working space at least three days a week."
+      ],
+      "answer": "A",
+      "explanation": "本文第2段落の「To request reimbursement, please submit itemized receipts through the employee portal by the end of each calendar month.（払い戻しを申請するには、各月末までに社内ポータル経由で項目別の領収書を提出してください）」という記述と一致するため、Aが正解です。"
+    },
+    "id": 15,
+    "day": 15
   }
 ]
