@@ -834,5 +834,60 @@
     },
     "id": 15,
     "day": 15
+  },
+  {
+    "title": "🧳 A Lifesaver at Baggage Claim!",
+    "genre": "Travel & Airport Incidents (Customer Review / Product Testimonial)",
+    "level": "TOEIC 600-800",
+    "originalText": "I recently purchased the AeroTrack Pro luggage tag before my trip to Chicago. Unfortunately, my bag failed to arrive at the baggage carousel upon landing. Terminal staff were initially unable to locate it, but thanks to the AeroTrack app's real-time GPS feature, I identified that my suitcase was accidentally transferred to an outbound international flight gate. I immediately notified the customer service desk, and an agent retrieved it just minutes before departure. Although the airport mix-up was frustrating, this smart device saved my entire business trip. I highly recommend it to frequent travelers seeking peace of mind.",
+    "slashedText": "I recently purchased / the AeroTrack Pro luggage tag / before my trip to Chicago. // Unfortunately, / my bag failed to arrive / at the baggage carousel / upon landing. // Terminal staff / were initially unable to locate it, / but thanks to the AeroTrack app's real-time GPS feature, / I identified / that my suitcase was accidentally transferred / to an outbound international flight gate. // I immediately notified / the customer service desk, / and an agent retrieved it / just minutes before departure. // Although the airport mix-up was frustrating, / this smart device saved my entire business trip. // I highly recommend it / to frequent travelers / seeking peace of mind.",
+    "japaneseTranslation": "シカゴへの旅行の前に、AeroTrack Proのラゲッジタグを最近購入しました。あいにく、着陸後に私のバッグが手荷物受取所のターンテーブルに届きませんでした。ターミナルのスタッフは最初それを見つけることができませんでしたが、AeroTrackアプリのリアルタイムGPS機能のおかげで、自分のスーツケースが誤って国際線の出発ゲートに搬送されていたことを特定できました。すぐにカスタマーサービスデスクに連絡したところ、係員が出発のわずか数分前にそれを回収してくれました。空港でのトラブルはイライラさせられましたが、このスマートデバイスのおかげで出張全体が救われました。安心感を求める頻繁に旅行する方に心からお勧めします。",
+    "words": [
+      {
+        "word": "carousel",
+        "phonetic": "/ˌkærəˈsɛl/",
+        "partOfSpeech": "名詞",
+        "meaning": "（空港の）手荷物受取用ターンテーブル",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "TOEICの空港アナウンスや旅行関連の文脈で「baggage carousel（手荷物ターンテーブル）」として頻出します。"
+      },
+      {
+        "word": "locate",
+        "phonetic": "/ˈloʊkeɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜の場所を特定する、見つける",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「位置する（be located in/at）」という意味だけでなく、「紛失物や建物などの場所を探し当てる」という意味でも非常によく使われます。"
+      },
+      {
+        "word": "outbound",
+        "phonetic": "/ˈaʊtˌbaʊnd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "（便・列車などが）市外へ向かう、出発する、外行きの",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "対義語は「inbound（到着の、市内へ向かう）」。交通機関のスケジュールやアナウンスで頻繁に登場します。"
+      },
+      {
+        "word": "retrieve",
+        "phonetic": "/rɪˈtriːv/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を回収する、取り戻す",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "手荷物の回収（retrieve luggage）やデータの復元（retrieve data）などの文脈で出題されます。"
+      }
+    ],
+    "quiz": {
+      "question": "How did the reviewer discover the location of the missing suitcase?",
+      "options": [
+        "A) An airline agent called the reviewer's phone.",
+        "B) The baggage carousel displayed a notification message.",
+        "C) The reviewer used a feature on a mobile application.",
+        "D) Terminal staff located it immediately using barcode scanners."
+      ],
+      "answer": "C",
+      "explanation": "本文中の「thanks to the AeroTrack app's real-time GPS feature, I identified...（AeroTrackアプリのリアルタイムGPS機能のおかげで特定できた）」という記述から、投稿者はモバイルアプリの機能（GPS追跡機能）を使ってスーツケースの場所を特定したことが分かります。したがって正解は C です。"
+    },
+    "id": 16,
+    "day": 16
   }
 ]
