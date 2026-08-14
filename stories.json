@@ -889,5 +889,60 @@
     },
     "id": 16,
     "day": 16
+  },
+  {
+    "title": "🌲 When the Boss Refuses to Unplug: Day 2 at the Retreat",
+    "genre": "Business & Office Drama / Comedy (Blog Post)",
+    "level": "TOEIC 600-800",
+    "originalText": "Day 2 at the Executive Wilderness Retreat has taken an unexpected turn. Our department was instructed to unplug completely to foster authentic collaboration. However, our regional manager, Mr. Vance, was caught attempting to check quarterly revenue reports behind a giant pine tree. When confronted, he claimed he was merely photographing local wildlife. The team has since negotiated a compromise: thirty minutes of spreadsheet access in exchange for leading the evening campfire choir. Despite this minor policy infraction, morale is surprisingly high. If we survive tomorrow's mandatory canoe race, we might actually achieve true team synergy.",
+    "slashedText": "Day 2 at the Executive Wilderness Retreat / has taken an unexpected turn. // Our department was instructed to unplug completely / to foster authentic collaboration. // However, / our regional manager, Mr. Vance, / was caught attempting to check quarterly revenue reports / behind a giant pine tree. // When confronted, / he claimed / he was merely photographing local wildlife. // The team has since negotiated a compromise: / thirty minutes of spreadsheet access / in exchange for leading the evening campfire choir. // Despite this minor policy infraction, / morale is surprisingly high. // If we survive tomorrow's mandatory canoe race, / we might actually achieve true team synergy. //",
+    "japaneseTranslation": "エグゼクティブ・大自然リトリートの2日目は、予想外の展開を見せています。私たちの部署は、本物の協調性を育むために完全にデジタル機器から離れるよう指示されていました。しかし、地域統括マネージャーのヴァンス氏が、巨大な松の木の後ろで四半期の収益レポートをこっそり確認しようとしているところを見つかってしまいました。問い詰められた際、彼は単に野生動物の写真を撮っていただけだと主張しました。その後チームは妥協案を交渉し、夜のキャンプファイヤー合唱を先導することと引き換えに、30分間の表計算ソフトへのアクセス権を認めました。このちょっとした規定違反にもかかわらず、士気は驚くほど高まっています。もし明日の必須参加のカヌーレースを乗り切れば、私たちは本当に真のチームの相乗効果を達成できるかもしれません。",
+    "words": [
+      {
+        "word": "foster",
+        "phonetic": "/ˈfɔː.stɚ/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を促進する、育てる",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "ビジネス文書において「イノベーションを促進する（foster innovation）」や「良好な関係を育む（foster positive relationships）」といった文脈で頻出。"
+      },
+      {
+        "word": "compromise",
+        "phonetic": "/ˈkɑːm.prə.maɪz/",
+        "partOfSpeech": "名詞/動詞",
+        "meaning": "妥協、歩み寄り；妥協する",
+        "toeicLevel": "650点レベル",
+        "toeicNote": "「reach a compromise（妥協点に達する）」というコロケーションがPart 5やPart 7で非常によく問われます。"
+      },
+      {
+        "word": "infraction",
+        "phonetic": "/ɪnˈfræk.ʃən/",
+        "partOfSpeech": "名詞",
+        "meaning": "（規則・法律などの）違反、違反行為",
+        "toeicLevel": "750点〜800点レベル",
+        "toeicNote": "社内ポリシー違反（policy infraction）や交通違反などのオフィシャルな文脈で登場します。"
+      },
+      {
+        "word": "morale",
+        "phonetic": "/məˈræl/",
+        "partOfSpeech": "名詞",
+        "meaning": "士気、意気込み",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "「employee morale（従業員の士気）」「boost morale（士気を高める）」など、人事・職場環境に関する問題で頻出。"
+      }
+    ],
+    "quiz": {
+      "question": "Why was Mr. Vance permitted to access his spreadsheets for thirty minutes?",
+      "options": [
+        "A) He agreed to lead the evening campfire choir.",
+        "B) He proved he was photographing wild animals.",
+        "C) He successfully won the mandatory canoe race.",
+        "D) He completed his quarterly revenue reports early."
+      ],
+      "answer": "A",
+      "explanation": "本文の「The team has since negotiated a compromise: thirty minutes of spreadsheet access in exchange for leading the evening campfire choir.（夜のキャンプファイヤー合唱を先導することと引き換えに、30分間の表計算ソフトへのアクセス権を認めました）」という記述から、Aが正解です。"
+    },
+    "id": 17,
+    "day": 17
   }
 ]
