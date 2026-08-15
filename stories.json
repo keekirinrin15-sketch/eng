@@ -944,5 +944,68 @@
     },
     "id": 17,
     "day": 17
+  },
+  {
+    "title": "✈️ Public Notice: Baggage Carousel Rerouting at Terminal 3",
+    "genre": "Travel & Airport Incidents (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "Attention passengers arriving on international flights at Terminal 3: Due to an unforeseen technical malfunction with automated baggage carousel B, luggage from Flights PA-402 and GL-881 is temporarily being rerouted to Carousel E in the domestic arrivals hall. Airport ground personnel have been dispatched to assist with transit between terminals. Passengers experiencing delays exceeding forty-five minutes are eligible for complimentary refreshment vouchers, which can be claimed at the Information Desk near Exit 4. We sincerely apologize for this inconvenience and appreciate your patience as our maintenance team works swiftly to resolve the issue.",
+    "slashedText": "Attention passengers arriving on international flights / at Terminal 3: // Due to an unforeseen technical malfunction / with automated baggage carousel B, / luggage from Flights PA-402 and GL-881 / is temporarily being rerouted / to Carousel E / in the domestic arrivals hall. // Airport ground personnel have been dispatched / to assist with transit / between terminals. // Passengers experiencing delays exceeding forty-five minutes / are eligible for complimentary refreshment vouchers, / which can be claimed / at the Information Desk near Exit 4. // We sincerely apologize for this inconvenience / and appreciate your patience / as our maintenance team works swiftly / to resolve the issue. //",
+    "japaneseTranslation": "第3ターミナルに到着される国際線をご利用のお客様へお知らせいたします。自動手荷物受取所Bにおける予期せぬ機器の不具合により、PA-402便およびGL-881便のお手荷物は一時的に国内線到着ロビーの受取所Eへと変更されております。ターミナル間の移動をサポートするため、空港の地上係員が配置されております。なお、45分以上の遅延が生じている乗客の皆様は無料の軽食引換券を受け取る資格がございますので、4番出口付近の総合案内所にてお受け取りください。ご不便をおかけしますことを深くお詫び申し上げますとともに、保守チームが問題の迅速な解決に向けて作業を進めておりますので、ご理解をお願いいたします。",
+    "words": [
+      {
+        "word": "unforeseen",
+        "phonetic": "/ˌʌnfɔːrˈsiːn/",
+        "partOfSpeech": "形容詞",
+        "meaning": "予期せぬ、思いがけない",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "due to unforeseen circumstances（予期せぬ状況により）という定型句でリスニング・リーディング共によく登場します。"
+      },
+      {
+        "word": "reroute",
+        "phonetic": "/ˌriːˈruːt/",
+        "partOfSpeech": "動詞",
+        "meaning": "ルートを変更する、迂回させる",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "交通機関の遅延、悪天候、工事などの文脈で「経路変更する」という意味で頻出の動詞です。"
+      },
+      {
+        "word": "dispatch",
+        "phonetic": "/dɪˈspætʃ/",
+        "partOfSpeech": "動詞",
+        "meaning": "派遣する、発送する",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "スタッフを派遣する（dispatch personnel）、荷物を発送する（dispatch goods）という文脈で使われます。"
+      },
+      {
+        "word": "eligible",
+        "phonetic": "/ˈelɪdʒəbl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "資格がある、対象となる",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "be eligible for + 名詞 / be eligible to do（〜を受ける／する資格がある）の形でPart 5の文法問題やPart 7に頻出。"
+      },
+      {
+        "word": "complimentary",
+        "phonetic": "/ˌkɑːmplɪˈmentri/",
+        "partOfSpeech": "形容詞",
+        "meaning": "無料の、優待の",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "TOEIC最頻出単語の一つ。「free」のフォーマルな言い換えとしてホテルや空港、イベントの通知で必ず出題されます。"
+      }
+    ],
+    "quiz": {
+      "question": "What should passengers delayed for over forty-five minutes do to receive a refreshment voucher?",
+      "options": [
+        "A) Go to the Information Desk located near Exit 4.",
+        "B) Request it directly from the maintenance personnel.",
+        "C) Wait by Baggage Carousel B until further notice.",
+        "D) File a claim online via the airport's website."
+      ],
+      "answer": "A",
+      "explanation": "本文中盤に「Passengers experiencing delays exceeding forty-five minutes are eligible for complimentary refreshment vouchers, which can be claimed at the Information Desk near Exit 4.（45分を超える遅延が発生している乗客は無料の軽食券を受け取る資格があり、4番出口近くの総合案内所で受け取ることができます）」と明記されているため、Aが正解です。"
+    },
+    "id": 18,
+    "day": 18
   }
 ]
