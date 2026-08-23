@@ -1007,5 +1007,60 @@
     },
     "id": 18,
     "day": 18
+  },
+  {
+    "title": "🧠 Public Notice: Mindless Organism Maze Challenge",
+    "genre": "Surprising Science & Nature Trivia (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "PUBLIC NOTICE: Exhibition on Natural Computing\nThe Greenfield Science Pavilion is pleased to announce a special demonstration featuring Physarum polycephalum, a single-celled organism renowned for its remarkable problem-solving capabilities. Despite lacking a central nervous system or brain, this slime mold can navigate complex mazes to locate food sources through efficient biological networks.\nStarting this Friday, visitors can observe live time-lapse projections and participate in hands-on workshops exploring bio-computing applications. Please note that seating in the Demonstration Hall is limited and allocated on a first-come, first-served basis. Attendees are encouraged to register in advance at the reception desk.",
+    "slashedText": "PUBLIC NOTICE: / Exhibition on Natural Computing // The Greenfield Science Pavilion is pleased to announce / a special demonstration / featuring Physarum polycephalum, / a single-celled organism renowned for / its remarkable problem-solving capabilities. // Despite lacking a central nervous system or brain, / this slime mold can navigate complex mazes / to locate food sources / through efficient biological networks. // Starting this Friday, / visitors can observe live time-lapse projections / and participate in hands-on workshops / exploring bio-computing applications. // Please note that / seating in the Demonstration Hall is limited / and allocated on a first-come, first-served basis. // Attendees are encouraged to / register in advance at the reception desk. //",
+    "japaneseTranslation": "公式告知：自然計算に関する展示会\nグリーンフィールド・サイエンス・パビリオンは、優れた問題解決能力で知られる単細胞生物「モジホコリ（粘菌の一種）」を特集した特別実演の開催をお知らせいたします。中枢神経系や脳を持たないにもかかわらず、この粘菌は効率的な生体ネットワークを介して複雑な迷路を通り抜け、餌の場所を特定することができます。\n今週の金曜日より、来場者の皆様はライブタイムラプス映像を観察し、バイオコンピューティングの応用を探究する体験型ワークショップに参加していただけます。実演ホールの座席数には限りがあり、先着順でのご案内となりますのでご注意ください。受付デスクにて事前の参加登録をお勧めいたします。",
+    "words": [
+      {
+        "word": "renowned",
+        "phonetic": "/rɪˈnaʊnd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "〜で有名な、名高い",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "be renowned for 〜（〜で有名である）の形で頻出。famous や well-known のフォーマルな言換えとしてPart 7の会社概要や人物紹介によく登場します。"
+      },
+      {
+        "word": "capability",
+        "phonetic": "/ˌkeɪ.pəˈbɪl.ə.t̬i/",
+        "partOfSpeech": "名詞",
+        "meaning": "能力、性能",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "機器の性能や個人の業務遂行能力を指すビジネス頻出語。technical capabilities（技術的能力）などのコロケーションで頻出。"
+      },
+      {
+        "word": "allocate",
+        "phonetic": "/ˈæl.ə.keɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "配分する、割り当てる",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "予算（funds）や座席（seats）、時間（time）を割り当てる際によく使われる重要単語です。"
+      },
+      {
+        "word": "in advance",
+        "phonetic": "/ɪn ədˈvæns/",
+        "partOfSpeech": "副詞句",
+        "meaning": "前もって、事前に",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "register in advance（事前登録する）、notify in advance（事前通知する）など、TOEICのお知らせ文書で最頻出の表現です。"
+      }
+    ],
+    "quiz": {
+      "question": "What is mentioned as a surprising trait of the featured organism?",
+      "options": [
+        "A) It can solve mazes without possessing a brain.",
+        "B) It functions exclusively in cold environments.",
+        "C) It was artificially created by computing researchers.",
+        "D) It can change its color when detecting food."
+      ],
+      "answer": "A",
+      "explanation": "第2文に「Despite lacking a central nervous system or brain, this slime mold can navigate complex mazes...（中枢神経系や脳を持たないにもかかわらず、この粘菌は複雑な迷路を通り抜けることができる）」と記載されているため、Aが正解です。"
+    },
+    "id": 19,
+    "day": 19
   }
 ]
