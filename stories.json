@@ -1062,5 +1062,60 @@
     },
     "id": 19,
     "day": 19
+  },
+  {
+    "title": "📦 Midnight Surge at the Fulfillment Center",
+    "genre": "Shopping, E-commerce & Logistics (Short Narrative Story)",
+    "level": "TOEIC 600-800",
+    "originalText": "Elena stared at the fulfillment dashboard in disbelief. Overnight, orders for the artisan ceramic mugs had skyrocketed after a popular lifestyle influencer featured them in a morning vlog. Within three hours, the e-commerce platform registered over twelve hundred transactions, completely exhausting the safety stock. Elena promptly reassigned two warehouse associates to package fragile items and contacted the regional courier to schedule an additional freight pickup. Thanks to their automated inventory tracking and swift adjustments, every expedited parcel was dispatched before the evening cutoff, preventing any fulfillment bottlenecks.",
+    "slashedText": "Elena stared at the fulfillment dashboard / in disbelief. // Overnight, / orders for the artisan ceramic mugs / had skyrocketed / after a popular lifestyle influencer / featured them in a morning vlog. // Within three hours, / the e-commerce platform registered / over twelve hundred transactions, / completely exhausting the safety stock. // Elena promptly reassigned / two warehouse associates / to package fragile items / and contacted the regional courier / to schedule an additional freight pickup. // Thanks to their automated inventory tracking / and swift adjustments, / every expedited parcel was dispatched / before the evening cutoff, / preventing any fulfillment bottlenecks. //",
+    "japaneseTranslation": "エレナは信じられない思いで注文処理の管理画面を見つめた。人気ライフスタイル系インフルエンサーが朝の動画ブログで手作り陶器マグカップを紹介したことを受け、一晩でその注文数が急増したのだ。3時間以内に、eコマースプラットフォームは1,200件以上の取引を記録し、安全在庫を完全に使い果たした。エレナは迅速に2名の倉庫スタッフを壊れ物の梱包作業に再配置し、地域の配送業者に連絡して追加の貨物集荷を手配した。自動在庫追跡システムと迅速な対応のおかげで、優先配送のすべての小包は夕方の締め切り前に発送され、出荷の遅延を未然に防ぐことができた。",
+    "words": [
+      {
+        "word": "fulfillment",
+        "phonetic": "/fʊlˈfɪlmənt/",
+        "partOfSpeech": "名詞",
+        "meaning": "（注文の）履行、発送業務、達成",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "Eコマースの文脈で「order fulfillment（注文処理業務）」や「fulfillment center（物流拠点）」として頻出。"
+      },
+      {
+        "word": "fragile",
+        "phonetic": "/ˈfrædʒl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "壊れやすい、もろい",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "物流や配送の場面で「fragile items（壊れ物）」や「handle with care（取扱注意）」とセットでよく登場する。"
+      },
+      {
+        "word": "expedited",
+        "phonetic": "/ˈekspədaɪtɪd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "迅速な、お急ぎ便の",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "動詞 expedite（早める・迅速に処理する）から派生。「expedited delivery/shipping（速達便）」の形で頻出。"
+      },
+      {
+        "word": "dispatch",
+        "phonetic": "/dɪˈspætʃ/",
+        "partOfSpeech": "動詞",
+        "meaning": "発送する、派遣する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICの物流・配送関連トピックで「ship」「send out」のフォーマルな同義語として頻繁に使われる。"
+      }
+    ],
+    "quiz": {
+      "question": "How did Elena resolve the operational challenge caused by the sudden spike in orders?",
+      "options": [
+        "A) By reallocating warehouse staff and booking an extra pickup",
+        "B) By canceling transactions that exceeded safety stock levels",
+        "C) By requesting the influencer remove the promotional video",
+        "D) By extending the parcel dispatch deadline to the next day"
+      ],
+      "answer": "A",
+      "explanation": "本文中盤で「Elena promptly reassigned two warehouse associates to package fragile items and contacted the regional courier to schedule an additional freight pickup（エレナは迅速に2名の倉庫スタッフを再配置し、地域の配送業者に追加の貨物集荷を手配した）」と述べられているため、Aが正解です。"
+    },
+    "id": 20,
+    "day": 20
   }
 ]
