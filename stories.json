@@ -1117,5 +1117,60 @@
     },
     "id": 20,
     "day": 20
+  },
+  {
+    "title": "☕ The Breakroom Glitch",
+    "genre": "Business & Office Drama / Comedy (Short Narrative Story)",
+    "level": "TOEIC 600-800",
+    "originalText": "To boost employee morale, management installed a state-of-the-art, voice-activated coffee dispenser in the breakroom. Unfortunately, the technician accidentally synced its speech recognition software with the IT department's troubleshooting database. When marketing director Brenda requested a double espresso with oat milk, the machine beeped loudly and announced, \"System error 404: Ingredient not found. Initiating full system reboot.\" It then dispensed a single stream of lukewarm water into her ceramic mug. Despite the initial frustration, the team found the glitch amusing and began submitting formal \"bug reports\" whenever they needed decaf. Management promised a permanent software patch by Friday.",
+    "slashedText": "To boost employee morale, / management installed / a state-of-the-art, voice-activated coffee dispenser / in the breakroom. // Unfortunately, / the technician accidentally synced / its speech recognition software / with the IT department's troubleshooting database. // When marketing director Brenda requested / a double espresso with oat milk, / the machine beeped loudly / and announced, / \"System error 404: Ingredient not found. / Initiating full system reboot.\" // It then dispensed / a single stream of lukewarm water / into her ceramic mug. // Despite the initial frustration, / the team found the glitch amusing / and began submitting formal \"bug reports\" / whenever they needed decaf. // Management promised / a permanent software patch by Friday. //",
+    "japaneseTranslation": "従業員の士気を高めるため、経営陣は休憩室に最先端の音声認識コーヒーサーバーを導入した。あいにく、技術者が誤ってその音声認識ソフトウェアをIT部門のトラブルシューティング・データベースと同期させてしまった。マーケティング部長のブレンダがオーツミルク入りのダブルエスプレッソを注文すると、機械は大きな警告音を鳴らし、「システムエラー404：材料が見つかりません。システム全体の再起動を開始します」とアナウンスした。その後、彼女の陶器製マグカップにはぬるま湯が一筋だけ注がれた。最初の失望にもかかわらず、チームはその不具合を面白がり、カフェインレスコーヒーが必要になるたびに正式な「バグ報告書」を提出するようになった。経営陣は金曜日までに恒久的なソフトウェアパッチ（修正プログラム）を提供すると約束した。",
+    "words": [
+      {
+        "word": "morale",
+        "phonetic": "/məˈrɑːl/",
+        "partOfSpeech": "名詞",
+        "meaning": "士気、やる気",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは「boost/improve/raise employee morale（従業員の士気を高める）」のコロケーションで頻出。moral（道徳）と混同しないよう注意。"
+      },
+      {
+        "word": "state-of-the-art",
+        "phonetic": "/ˌsteɪt.əv.ðiːˈɑːrt/",
+        "partOfSpeech": "形容詞",
+        "meaning": "最先端の、最新式の",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "製品広告や設備導入の文脈で「state-of-the-art equipment / facility」として頻繁に登場する必須表現。"
+      },
+      {
+        "word": "dispense",
+        "phonetic": "/dɪˈspens/",
+        "partOfSpeech": "動詞",
+        "meaning": "（物・飲食物・薬などを）分配する、提供する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "自動販売機やディスペンサー（dispenser）に関連する文脈や、サービスを提供する意味で使われる。"
+      },
+      {
+        "word": "glitch",
+        "phonetic": "/ɡlɪtʃ/",
+        "partOfSpeech": "名詞",
+        "meaning": "（一時的な）不具合、小さな技術的障害",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "ITや機械トラブルに関する会話やメールで「technical glitch / minor glitch」の形でよく用いられる。"
+      }
+    ],
+    "quiz": {
+      "question": "What caused the coffee dispenser to malfunction?",
+      "options": [
+        "A) It was mistakenly connected to an IT troubleshooting system.",
+        "B) Brenda forgot to specify what type of milk she wanted.",
+        "C) Management forgot to install the Friday software patch.",
+        "D) The technician poured cold water into the bean container."
+      ],
+      "answer": "A",
+      "explanation": "第2文「the technician accidentally synced its speech recognition software with the IT department's troubleshooting database（技術者が誤ってその音声認識ソフトウェアをIT部門のトラブルシューティング・データベースと同期させてしまった）」より、ITシステムに誤って接続されたことが原因であるため、Aが正解です。"
+    },
+    "id": 21,
+    "day": 21
   }
 ]
