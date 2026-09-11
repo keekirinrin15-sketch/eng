@@ -1172,5 +1172,68 @@
     },
     "id": 21,
     "day": 21
+  },
+  {
+    "title": "🌿 Notice: Commercial Food Waste Diversion Program",
+    "genre": "Environmental & Eco-friendly Initiatives (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "Attention Downtown Business Operators: Beginning October 15, the Department of Environmental Services will implement the Commercial Organic Waste Diversion Program. Under this initiative, all food-service establishments are required to separate organic food scraps from general waste. Specially designated green containers will be distributed free of charge throughout next week. Participating businesses that meet their diversion targets will qualify for a 15 percent rebate on quarterly municipal disposal fees. To assist with the transition, complimentary staff training sessions are scheduled every Tuesday this month. Please visit our website or contact the sustainability hotline to register your establishment.",
+    "slashedText": "Attention Downtown Business Operators: // Beginning October 15, / the Department of Environmental Services / will implement the Commercial Organic Waste Diversion Program. // Under this initiative, / all food-service establishments / are required to separate organic food scraps / from general waste. // Specially designated green containers / will be distributed free of charge / throughout next week. // Participating businesses / that meet their diversion targets / will qualify for a 15 percent rebate / on quarterly municipal disposal fees. // To assist with the transition, / complimentary staff training sessions / are scheduled every Tuesday this month. // Please visit our website / or contact the sustainability hotline / to register your establishment. //",
+    "japaneseTranslation": "ダウンタウンの事業者各位：\n10月15日より、環境局は「商業用有機廃棄物分別プログラム」を実施いたします。本取り組みのもと、すべての飲食事業者は有機性食品廃棄物を一般ゴミと分別することが義務付けられます。特別に指定された緑色の専用コンテナが、来週中に無料で配布されます。分別の目標数値を達成した参加事業者は、四半期ごとの自治体廃棄料金の15パーセントの還付金（割引）を受ける資格が得られます。移行を円滑に進めるため、今月の毎週火曜日に無料のスタッフ研修会が予定されています。事業所の登録を行うには、当局のウェブサイトをご覧いただくか、サステナビリティ・ホットラインまでお問い合わせください。",
+    "words": [
+      {
+        "word": "implement",
+        "phonetic": "/ˈɪmplɪment/",
+        "partOfSpeech": "動詞",
+        "meaning": "（計画・政策などを）実施する、実行する",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "TOEICで超頻出の動詞。「implement a policy / program / change」のように、新方針や規則の導入・実施を伝える場面で非常によく使われます。"
+      },
+      {
+        "word": "initiative",
+        "phonetic": "/ɪˈnɪʃətɪv/",
+        "partOfSpeech": "名詞",
+        "meaning": "取り組み、新たな構想、主導権",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "「environmental initiative（環境への取り組み）」など、企業や自治体のプロジェクト・施策の意味で頻出します。「take the initiative（主導権を握る）」も重要表現です。"
+      },
+      {
+        "word": "complimentary",
+        "phonetic": "/ˌkɑːmplɪˈmentri/",
+        "partOfSpeech": "形容詞",
+        "meaning": "無料の、優待の",
+        "toeicLevel": "600点〜800点レベル",
+        "toeicNote": "「free」のフォーマルな同義語としてPart 7の告知・案内文やホテル・イベント関連で頻出。「complimentary breakfast（無料の朝食）」「complimentary ticket（優待券）」などのコロケーションで頻出します。"
+      },
+      {
+        "word": "rebate",
+        "phonetic": "/ˈriːbeɪt/",
+        "partOfSpeech": "名詞",
+        "meaning": "払い戻し、割戻金、還付金",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "購入後や目標達成後に一部が戻ってくるお金を指します。「discount（値引き）」と異なり、後から払い戻される文脈で用いられます。"
+      },
+      {
+        "word": "transition",
+        "phonetic": "/trænˈzɪʃn/",
+        "partOfSpeech": "名詞",
+        "meaning": "移行、移り変わり、変化",
+        "toeicLevel": "650点〜750点レベル",
+        "toeicNote": "「make a transition to 〜（〜へ移行する）」や「assist with the transition（移行を支援する）」など、システム変更や人事異動、新体制への切り替え通知で頻出します。"
+      }
+    ],
+    "quiz": {
+      "question": "What incentive is offered to businesses that achieve their waste diversion goals?",
+      "options": [
+        "A) A reduction in municipal disposal fees",
+        "B) Free kitchen equipment upgrades",
+        "C) Preferential listing on a city directory",
+        "D) Exemption from future training seminars"
+      ],
+      "answer": "A",
+      "explanation": "本文の第4文に「Participating businesses that meet their diversion targets will qualify for a 15 percent rebate on quarterly municipal disposal fees（目標を達成した事業者は、四半期ごとの自治体廃棄料金の15パーセントの還付金を受ける資格が得られる）」とあります。rebate（還付・払い戻し）は費用の実質的な削減・割引を意味するため、(A)「A reduction in municipal disposal fees（自治体廃棄料金の引き下げ）」が正解です。"
+    },
+    "id": 22,
+    "day": 22
   }
 ]
