@@ -1235,5 +1235,60 @@
     },
     "id": 22,
     "day": 22
+  },
+  {
+    "title": "🗝️ Customer Review: Crypts and Forgotten Echoes Tour",
+    "genre": "Historical Anecdotes & Hidden Mysteries (Customer Review / Product Testimonial)",
+    "level": "TOEIC 600-800",
+    "originalText": "I initially booked the Underground Vaults Walking Tour out of mild curiosity, but it exceeded all expectations. Our guide, Elena, brought the forgotten 18th-century merchants' quarter to life with documented historical anecdotes rather than mere ghost tales. She unveiled a sealed drainage corridor that once served as a clandestine meeting spot for radical political reformers. The acoustic resonance in the stone chambers made every archival narrative feel chillingly authentic. The provided audio headsets functioned flawlessly throughout the damp subterranean route. This tour offers profound historical depth without relying on theatrical gimmicks. Highly recommended for avid history buffs!",
+    "slashedText": "I initially booked / the Underground Vaults Walking Tour / out of mild curiosity, // but it exceeded all expectations. // Our guide, Elena, / brought the forgotten 18th-century merchants' quarter to life / with documented historical anecdotes / rather than mere ghost tales. // She unveiled a sealed drainage corridor / that once served as / a clandestine meeting spot / for radical political reformers. // The acoustic resonance / in the stone chambers / made every archival narrative / feel chillingly authentic. // The provided audio headsets / functioned flawlessly / throughout the damp subterranean route. // This tour offers profound historical depth / without relying on theatrical gimmicks. // Highly recommended / for avid history buffs! //",
+    "japaneseTranslation": "私は当初、ほんの好奇心から「地下貯蔵庫ウォーキングツアー」を予約したのですが、期待をはるかに超えるものでした。ガイドのエレナさんは、単なる怪談ではなく、記録に残る歴史的逸話を用いて、忘れ去られた18世紀の商人街を生き生きと蘇らせてくれました。彼女は、かつて急進的な政治改革者たちの秘密の集会所として機能していた、封鎖された排水路を案内してくれました。石造りの部屋に響く音響の反響により、どの記録文書の物語もぞっとするほど本物に感じられました。貸し出された音声ヘッドセットは、湿気の多い地下ルートでも不具合なく完璧に機能しました。このツアーは、大げさな演出に頼ることなく、深みのある歴史的価値を提供してくれます。熱心な歴史愛好家には強くお勧めします！",
+    "words": [
+      {
+        "word": "exceed",
+        "phonetic": "/ɪkˈsiːd/",
+        "partOfSpeech": "動詞",
+        "meaning": "（期待・制限などを）超える、上回る",
+        "toeicLevel": "600点〜700点レベル",
+        "toeicNote": "TOEICでは「exceed expectations（期待を超える）」や「exceed the budget limit（予算上限を超える）」というコロケーションで頻出します。"
+      },
+      {
+        "word": "authentic",
+        "phonetic": "/ɔːˈθentɪk/",
+        "partOfSpeech": "形容詞",
+        "meaning": "本物の、真正の、信頼できる",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "「authentic cuisine（本場の料理）」や「authentic documentation（真正の資料）」のように、観光や製品紹介の文脈でよく用いられます。"
+      },
+      {
+        "word": "flawlessly",
+        "phonetic": "/ˈflɔːləsli/",
+        "partOfSpeech": "副詞",
+        "meaning": "完璧に、欠点なく",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "機器やシステムが滞りなく動いたことを表す「function flawlessly（完璧に作動する）」や「perform flawlessly」などの表現で登場します。"
+      },
+      {
+        "word": "profound",
+        "phonetic": "/prəˈfaʊnd/",
+        "partOfSpeech": "形容詞",
+        "meaning": "深い、重大な",
+        "toeicLevel": "700点〜800点レベル",
+        "toeicNote": "「profound impact（甚大な影響）」や「profound knowledge（深い知識）」のように、程度が著しく深いことを表すビジネス・教養表現です。"
+      }
+    ],
+    "quiz": {
+      "question": "What does the reviewer praise about the guide, Elena?",
+      "options": [
+        "A) She relied on documented facts rather than ghost stories.",
+        "B) She gave discounts to tourists visiting the underground chambers.",
+        "C) She repaired malfunctioning audio headsets during the walk.",
+        "D) She allowed participants to explore the corridors without supervision."
+      ],
+      "answer": "A",
+      "explanation": "本文の第2文「Elena, brought the forgotten 18th-century merchants' quarter to life with documented historical anecdotes rather than mere ghost tales（エレナさんは単なる怪談ではなく記録に残る歴史的逸話を用いて商人街を蘇らせた）」より、怪談話ではなく記録に基づく事実を伝えた点が称賛されているため、Aが正解です。"
+    },
+    "id": 23,
+    "day": 23
   }
 ]
