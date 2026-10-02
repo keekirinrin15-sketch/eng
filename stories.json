@@ -1290,5 +1290,68 @@
     },
     "id": 23,
     "day": 23
+  },
+  {
+    "title": "🦉 Notice Regarding Terminal 3 Ambient Soundscapes",
+    "genre": "Customer Support & Unusual Complaints (Official Announcement or Public Notice)",
+    "level": "TOEIC 600-800",
+    "originalText": "Following numerous inquiries and unexpected noise complaints submitted to our customer care center, the Skyway Transit Authority wishes to clarify the nature of the background audio in Terminal 3. Several passengers reported hearing mysterious scratching and distressed wildlife near Gate 14. Please be assured that this audio is part of our newly piloted Boreal Forest Relaxation Initiative, aimed at reducing pre-flight anxiety. However, given the unintended alarm caused by the owl call recordings, technicians will recalibrate the acoustic settings tonight. We appreciate your patience and vigilant feedback as we refine our passenger amenities.",
+    "slashedText": "Following numerous inquiries / and unexpected noise complaints / submitted to our customer care center, / the Skyway Transit Authority wishes to clarify / the nature of the background audio in Terminal 3. // Several passengers reported hearing / mysterious scratching and distressed wildlife / near Gate 14. // Please be assured that / this audio is part of our newly piloted / Boreal Forest Relaxation Initiative, / aimed at reducing pre-flight anxiety. // However, / given the unintended alarm / caused by the owl call recordings, / technicians will recalibrate the acoustic settings tonight. // We appreciate your patience / and vigilant feedback / as we refine our passenger amenities. //",
+    "japaneseTranslation": "カスタマーケアセンターに寄せられた多数のお問い合わせおよび予期せぬ騒音苦情を受け、スカイウェイ交通局はターミナル3の環境音の趣旨についてご説明申し上げます。一部の乗客から、14番ゲート付近で「不審な引っかき音や苦しんでいる野生動物の声」が聞こえるとの報告がございました。ご安心いただきたいのですが、この音声は搭乗前の不安を軽減することを目的とした、試験運用中の「北方林リラクゼーション・プログラム」の一環です。しかしながら、フクロウの鳴き声の録音によって意図せぬ不安が生じたことを受け、技術スタッフが今夜音響設定を再調整いたします。乗客の皆様向けサービスの改善に向け、ご理解と貴重なご意見を賜り感謝申し上げます。",
+    "words": [
+      {
+        "word": "inquiry",
+        "phonetic": "/ɪnˈkwaɪəri/",
+        "partOfSpeech": "名詞",
+        "meaning": "問い合わせ、質問",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "TOEICでは「make an inquiry（問い合わせる）」や「customer inquiries（顧客からの問い合わせ）」のコロケーションで頻出。"
+      },
+      {
+        "word": "clarify",
+        "phonetic": "/ˈklærəfaɪ/",
+        "partOfSpeech": "動詞",
+        "meaning": "〜を明確にする、説明する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "誤解が生じた際のお知らせやビジネスメールで「状況をはっきりさせる」意味で非常によく用いられる重要動詞。"
+      },
+      {
+        "word": "pilot",
+        "phonetic": "/ˈpaɪlət/",
+        "partOfSpeech": "動詞",
+        "meaning": "試験導入する、試験的に実施する",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "名詞の「操縦士」だけでなく、動詞として「新規プロジェクトなどを試験的に行う」という意味でPart 7によく登場する。"
+      },
+      {
+        "word": "recalibrate",
+        "phonetic": "/ˌriːˈkælɪbreɪt/",
+        "partOfSpeech": "動詞",
+        "meaning": "再調整する、基準を合わせ直す",
+        "toeicLevel": "800点レベル",
+        "toeicNote": "機器やシステム、方針の「再調整」を表す語。TOEICでは技術サポートや施設メンテナンス関連の文脈で登場する。"
+      },
+      {
+        "word": "amenity",
+        "phonetic": "/əˈmenəti/",
+        "partOfSpeech": "名詞",
+        "meaning": "快適な設備、アメニティ、生活利便施設",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "通常複数形「amenities」で用いられ、空港・ホテル・オフィスの付帯設備やサービスを指す。"
+      }
+    ],
+    "quiz": {
+      "question": "What will technicians do to address the passengers' concerns?",
+      "options": [
+        "A) Adjust the sound settings of the audio program",
+        "B) Capture the wild animals living near Gate 14",
+        "C) Discontinue the customer care department",
+        "D) Close Terminal 3 for overnight maintenance"
+      ],
+      "answer": "A",
+      "explanation": "本文の後半に「technicians will recalibrate the acoustic settings tonight（技術スタッフが今夜音響設定を再調整いたします）」とあるため、正解は A) Adjust the sound settings of the audio program（オーディオプログラムの音響設定を調整する）です。Bのような野生動物の捕獲は乗客の誤認であり、CやDの対応は本文で述べられていません。"
+    },
+    "id": 24,
+    "day": 24
   }
 ]
