@@ -1353,5 +1353,60 @@
     },
     "id": 24,
     "day": 24
+  },
+  {
+    "title": "☕ Smart Coasters for Workplace Wellness",
+    "genre": "Tech Inventions & Quirky Gadgets (Business Email or Internal Memo)",
+    "level": "TOEIC 600-800",
+    "originalText": "MEMORANDUM\nTo: All Headquarters Staff\nFrom: Facilities & Wellness Committee\nDate: October 14\nSubject: Pilot Trial of LuminaHydrate Coasters\n\nStarting next Monday, our department will pilot test an innovative gadget designed to enhance employee well-being: the LuminaHydrate smart coaster. This device monitors daily fluid intake and gently illuminates when it is time to drink water. Additionally, its integrated sensor detects leaning angles and vibrates subtly to encourage optimal posture throughout the workday.\n\nParticipation is voluntary, but we encourage everyone to give it a try. Please collect your trial unit from Conference Room B by Friday afternoon. You will be asked to complete a brief satisfaction survey after the two-week trial period concludes.",
+    "slashedText": "MEMORANDUM // To: All Headquarters Staff // From: Facilities & Wellness Committee // Date: October 14 // Subject: Pilot Trial of LuminaHydrate Coasters // Starting next Monday, / our department will pilot test / an innovative gadget / designed to enhance employee well-being: / the LuminaHydrate smart coaster. // This device monitors daily fluid intake / and gently illuminates / when it is time to drink water. // Additionally, / its integrated sensor detects leaning angles / and vibrates subtly / to encourage optimal posture / throughout the workday. // Participation is voluntary, / but we encourage everyone / to give it a try. // Please collect your trial unit / from Conference Room B / by Friday afternoon. // You will be asked to complete / a brief satisfaction survey / after the two-week trial period concludes. //",
+    "japaneseTranslation": "社内連絡メモ\n宛先：本社全従業員\n送信者：施設・福利厚生委員会\n日付：10月14日\n件名：LuminaHydrateコースターの試験導入について\n\n来週月曜日より、当委員会では従業員の健康増進を目的として設計された画期的なガジェット「LuminaHydrateスマートコースター」の試験運用を開始します。この機器は1日の水分摂取量を記録し、水分補給のタイミングになると穏やかに点滅して知らせます。さらに、内蔵センサーが前傾姿勢などの傾きを検知し、微かな振動で業務中の最適な姿勢維持を促します。\n\n参加は任意ですが、ぜひ皆様にお試しいただくことをお勧めします。金曜日の午後までに会議室Bにて試用機器をお受け取りください。2週間の試用期間終了後、簡単な満足度アンケートへのご記入をお願いする予定です。",
+    "words": [
+      {
+        "word": "pilot",
+        "phonetic": "/ˈpaɪ.lət/",
+        "partOfSpeech": "動詞",
+        "meaning": "試験的に導入する、試験運用する",
+        "toeicLevel": "700点レベル",
+        "toeicNote": "TOEICでは「パイロット（操縦士）」だけでなく、「pilot a project / program（プロジェクトを試験的に実施する）」という動詞・形容詞用法が頻出します。"
+      },
+      {
+        "word": "intake",
+        "phonetic": "/ˈɪn.teɪk/",
+        "partOfSpeech": "名詞",
+        "meaning": "摂取（量）、受け入れ数",
+        "toeicLevel": "650点レベル",
+        "toeicNote": "健康や福利厚生関連の文書で「caloric intake（カロリー摂取）」「fluid intake（水分摂取）」などのコロケーションでよく用いられます。"
+      },
+      {
+        "word": "optimal",
+        "phonetic": "/ˈɑːp.tə.məl/",
+        "partOfSpeech": "形容詞",
+        "meaning": "最適な、最善の",
+        "toeicLevel": "750点レベル",
+        "toeicNote": "「optimal results（最善の結果）」「optimal conditions（最適な条件）」など、ビジネス改善や効率化の文脈で重宝される表現です。"
+      },
+      {
+        "word": "conclude",
+        "phonetic": "/kənˈkluːd/",
+        "partOfSpeech": "動詞",
+        "meaning": "終了する、締めくくる、結論を下す",
+        "toeicLevel": "600点レベル",
+        "toeicNote": "「When the meeting concludes（会議が終了したとき）」のように、イベントや期間が終わることを表すフォーマルな語として頻出します。"
+      }
+    ],
+    "quiz": {
+      "question": "What are participants asked to do after the trial ends?",
+      "options": [
+        "A) Fill out an evaluation form",
+        "B) Purchase the device at a discounted price",
+        "C) Return the coaster to Conference Room B",
+        "D) Attend a mandatory ergonomics training session"
+      ],
+      "answer": "A",
+      "explanation": "メモの最終文に「complete a brief satisfaction survey after the two-week trial period concludes（2週間の試用期間が終了した後に簡単な満足度アンケートに回答する）」と記載されているため、Aの「Fill out an evaluation form（評価フォームに記入する）」が正解です。B（購入）、C（返却）、D（研修参加）は本文に言及がありません。"
+    },
+    "id": 25,
+    "day": 25
   }
 ]
